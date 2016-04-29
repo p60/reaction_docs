@@ -3,7 +3,7 @@ require "active_support/all"
 
 module BuildDocs
   REPO_URL = "https://raw.githubusercontent.com/p60/reaction_docs/master".freeze
-  MAPPING_FILE_NAME = "documents.json"
+  MAPPING_FILE_NAME = "topics.json"
 
   class HelpTopic < Struct.new(:key, :url, :title); end
 
