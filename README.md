@@ -1,1 +1,5 @@
-# reaction_docs
+# Recompiling documentation
+```
+cd build_docs
+./bin/compile
+```
