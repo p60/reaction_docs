@@ -4,6 +4,7 @@ require "active_support/all"
 module BuildDocs
   REPO_URL = "https://raw.githubusercontent.com/p60/reaction_docs/master".freeze
   MAPPING_FILE_NAME = "topics.json"
+  IGNORED_FILENAMES = [ "Readme" ].freeze
 
   class HelpTopic < Struct.new(:key, :url, :title); end
 
@@ -16,7 +17,9 @@ module BuildDocs
   end
 
   def self.markdown_files
-    @markdown_files ||= ::BuildDocs::FS::Directory.new(root).files(true).by_extension(".md")
+    @markdown_files ||= ::BuildDocs::FS::Directory.new(root).files(true).by_extension(".md").reject{|f|
+      IGNORED_FILENAMES.include?(f.basename(".*").to_s)
+    }
   end
 
   def self.markdown_file_mapping
