@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require 'build_docs'
+require 'pry'
+
+BuildDocs.compile_mapping
