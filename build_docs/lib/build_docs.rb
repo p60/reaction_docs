@@ -4,7 +4,7 @@ require "active_support/all"
 module BuildDocs
   REPO_URL = "https://raw.githubusercontent.com/p60/reaction_docs/master".freeze
   MAPPING_FILE_NAME = "topics.json"
-  IGNORED_FILENAMES = [ "Readme" ].freeze
+  IGNORED_FILENAMES = [ "README" ].freeze
 
   class HelpTopic < Struct.new(:key, :url, :title); end
 
