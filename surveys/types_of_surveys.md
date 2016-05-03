@@ -25,6 +25,3 @@ Score | Group
 0-6 | Detractors
 7-8 | Passives
 9-10 | Promoters
-
-
- 

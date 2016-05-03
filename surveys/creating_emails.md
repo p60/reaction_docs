@@ -1,4 +1,8 @@
-# Creating Emails
+---
+keywords: ['survey', 'surveys', 'creating', 'email', 'emails', 'liquid', 'survey link', 'heads up', 'survey link', 'reminder', 'last call', 'sending']
+---
+
+## Creating Emails
 
 There are four types of emails in reaction.
 
@@ -36,4 +40,3 @@ Emails in Reaction are powered by the Liquid templating language, which allows y
 {{message.participant.prefix}}
 {{message.participant.locale}}
 ```
-

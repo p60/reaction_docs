@@ -1,3 +1,8 @@
+---
+keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
+---
+
+
 ## Creating Surveys
 
 todo: placeholder
