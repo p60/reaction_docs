@@ -20,4 +20,11 @@ When you create a NPS type of survey, two required questions will be created for
 #### How NPS Score is calculated
 The score itself is calculated based on the answer to the former, . Todo: go into more detail on calculations
 
+Score | Group
+--- | ---
+0-6 | Detractors
+7-8 | Passives
+9-10 | Promoters
+
+
  
