@@ -1,6 +1,6 @@
 ## Trigger Details
 
-## Creating a Trigger
+### Creating a Trigger
 
 There are 3 main details to take note of regarding a trigger.
 
