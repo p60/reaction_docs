@@ -1,6 +1,6 @@
 ## Reactions
 
-There are currently two available reactions to a trigger.
+There are currently two available reactions to a salesforce trigger.
   1. Creating a participant.
   2. Creating a participation.
 
