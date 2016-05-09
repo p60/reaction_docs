@@ -16,9 +16,13 @@ module BuildDocs
     ::Pathname.new(root)
   end
 
+  def self.in_build_doc?(file)
+    /^#{Dir.pwd}/.match(file.to_path)
+  end
+
   def self.markdown_files
     @markdown_files ||= ::BuildDocs::FS::Directory.new(root).files(true).by_extension(".md").reject{|f|
-      IGNORED_FILENAMES.include?(f.basename(".*").to_s)
+      in_build_doc?(f) || IGNORED_FILENAMES.include?(f.basename(".*").to_s)
     }
   end
 
