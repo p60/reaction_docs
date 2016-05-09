@@ -14,7 +14,7 @@ There are currently two available reactions available to be added to a salesforc
 
 ### Creating a Participation
 
-##### By selecting ##Create a Participation**, a dialog will open. Within this dialog are three main features.
+##### By selecting **Create a Participation**, a dialog will open. Within this dialog are three main features.
 
 1. Salesforce - Reaction Mapping (A visualization showing the participant/s that will be imported into Reaction.)
 2. Creating a survey participation (A select menu for assigning the pending participation creation to a survey.)
