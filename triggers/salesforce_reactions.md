@@ -4,7 +4,7 @@ There are currently two available reactions to a salesforce trigger.
   1. Creating a participant.
   2. Creating a participation.
 
-###Creating a Participant
+### Creating a Participant
   
   By selecting **Create a Participant**, a dialog will open. Within this dialog are two main features.
   1. Salesforce - Reaction Mapping
