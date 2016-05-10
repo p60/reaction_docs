@@ -15,8 +15,8 @@ There are currently two available reactions available to be added to a salesforc
 1. Attribute Mapping - A visualization showing the participant/s that will be imported into Reaction. 
 2. Creating a survey participation - This allows for assignment of the salesforce contact as a participation on an existing survey.
   * **Example:** You have a survey called 'Short Survey'. By selecting 'Short Survey' from the select menu, a participation is automatically created from the imported salesforce contact/s.
+  <img src="https://github.com/p60/reaction_docs/blob/master/triggers/screenshots/create_participation_for_survey.png" width='600' height='500'></image>
 3. Additional Reactions
   * TODO
 
-<img src="https://github.com/p60/reaction_docs/blob/master/triggers/screenshots/create_participation_for_survey.png" style="width: 48px; height: 48px;"></image>
 
