@@ -17,3 +17,5 @@ There are currently two available reactions available to be added to a salesforc
   * **Example:** You have a survey called 'Short Survey'. By selecting 'Short Survey' from the select menu, a participation is automatically created from the imported salesforce contact/s.
 3. Additional Reactions
   * TODO
+
+!['hello'](https://github.com/p60/reaction_docs/blob/master/triggers/screenshots/create_participation_for_survey.png =100x20)
