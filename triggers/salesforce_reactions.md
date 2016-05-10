@@ -6,17 +6,13 @@ There are currently two available reactions available to be added to a salesforc
 
 ### Creating a Participant
   
-##### By selecting **Create a Participant**, a dialog will open. Within this dialog are two main features.
-
-1. Salesforce - Reaction Mapping (A visualization showing the participant/s that will be imported into Reaction.)
-2. Additional Actions
-  * Once the reaction has been saved, certain additional actions will become available. For example, adding the participant/s to a specific group.
+1. Attribute Mapping (A visualization showing the participant/s that will be imported into Reaction.)
+2. Additional Reactions
+  * Once the reaction has been saved, additional reactions will become available. For example, adding the participant/s to an already existing group.
 
 ### Creating a Participation
 
-##### By selecting **Create a Participation**, a dialog will open. Within this dialog are three main features.
-
-1. Salesforce - Reaction Mapping (A visualization showing the participant/s that will be imported into Reaction.)
-2. Creating a survey participation (A select menu for assigning the pending participation creation to a survey.)
-3. Additional Actions
+1. Attribute Mapping - A visualization showing the participant/s that will be imported into Reaction. 
+2. Creating a survey participation - This allows for assignment of the salesforce contact as a participation on an existing survey. F.E. You have a survey called 'Short Survey'. By selecting 'Short Survey' from the select menu, a participation is automatically created from the imported salesforce contact/s.
+3. Additional Reactions
   * TODO
