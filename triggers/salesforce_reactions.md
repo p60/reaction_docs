@@ -18,4 +18,5 @@ There are currently two available reactions available to be added to a salesforc
 3. Additional Reactions
   * TODO
 
-!['hello'](https://github.com/p60/reaction_docs/blob/master/triggers/screenshots/create_participation_for_survey.png =100x20)
+<img src="https://github.com/p60/reaction_docs/blob/master/triggers/screenshots/create_participation_for_survey.png" style="width: 48px; height: 48px;"></image>
+
