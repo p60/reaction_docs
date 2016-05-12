@@ -6,7 +6,7 @@ todo: placeholder
 
 todo: placeholder
 
-### Boolean Questions (a.k.a. yes or no)
+### Boolean Questions (a.k.a. true/false)
 
 todo: placeholder
 
