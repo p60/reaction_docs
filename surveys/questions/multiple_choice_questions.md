@@ -6,6 +6,7 @@ This documentation will teach you how to effectively use a multiple choice/multi
 
 A key component of multiple choice questions are, you guessed it, choices. Choices in Reaction give you flexibility over 
 what the user sees as well as what actually gets reported. This is done through labels and values.
+
   * Label - What the user sees on the survey
  
   * Value - What gets saved and used in reporting
