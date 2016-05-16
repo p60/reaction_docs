@@ -10,4 +10,4 @@ Example: Let's say you wanted to add a particular participant to a group named M
 
 Example: What if you want to find more than one participant at a time? Reaction allows for this as well using the **Or** conjunction
 
-<img src="https://raw.githubusercontent.com/p60/reaction_docs/master/groups/screenshots/Or_example.png height='325"></img>
+<img src="https://raw.githubusercontent.com/p60/reaction_docs/master/groups/screenshots/Or_example.png" height='350'></img>
