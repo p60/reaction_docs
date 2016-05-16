@@ -17,6 +17,6 @@ There are two subclasses of participants on a group.
   
 <img src="https://raw.githubusercontent.com/p60/reaction_docs/master/groups/screenshots/group_participants.png"></img>
 
-Reaction allows for filtering of eligible/group participants as well. For more information see 
+Reaction allows for filtering of eligible/group participants as well. For more information see documentation on https://github.com/p60/reaction_docs/blob/master/groups/group_filters.md
 
 
