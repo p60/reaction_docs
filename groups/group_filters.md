@@ -12,6 +12,6 @@ Example: What if you want to find more than one participant at a time? Reaction 
 
 <img src="https://raw.githubusercontent.com/p60/reaction_docs/master/groups/screenshots/or_conjunction.png" height='350'></img>
 
-In general, The **and** conjunction will return all participants that match **all**(less inclusive) filter(s) criteria while the **or** conjunction will return all participants who match **any**(more inclusive) of the filters.
+When combined with the **contains** or **equals** comparison,the **and** conjunction will return all participants that match **all**(less inclusive) filter(s) criteria while the **or** conjunction will return all participants who match **any**(more inclusive) of the filters.
 
-Reaction also has the 'not_contains' and 'not_equals' comparisons for filtering out participants. Try them out!
+Reaction also has the 'not_contains' and 'not_equals' comparisons for filtering out participants if you want to filter out participant(s) as well. However, only the **And** conjunction is supported. Try them out!
