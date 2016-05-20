@@ -16,7 +16,7 @@ Example: Let's say you wanted to find a participant by first name Zeke. You coul
 
 There a few different ways of adding participants in Reaction.
 
-1. Adding a participant manually by clicking on add a new participant (additional help documentation provided there)
-2. Importing a list of participants from a csv file.
+1. Adding a participant manually by clicking on add a new participant (additional help documentation by clicking 'Add New Participant')
+2. Importing a list of participants from a csv file (additional documentation on import screen)
 3. Triggers (described in the triggers help documentation)
 4. Participants can also be added from Peer60's existing database on a case-by-case basis.
