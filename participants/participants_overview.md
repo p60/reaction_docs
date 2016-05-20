@@ -8,7 +8,7 @@ How do you administer Surveys without recipients? The answer is you don't. Enter
 1. Searchbar
   * Available options include: First Name, Last Name, Id, External Id, Position Name, Company Name, Role, and Seniority.
 2. Sorting
-  Each participant attribute can be sorted alphabetically
+  * Each participant attribute can be sorted alphabetically
 
 Example: Let's say you wanted to find a participant by first name Zeke. You could either click the magnifying glass and select 'By First Name' or you could click on the first name table header and sort Z-A.
 
