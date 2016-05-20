@@ -1,5 +1,5 @@
 
-##Participants
+## Participants
 
 How do you administer Surveys without recipients? The answer is you don't. Enter Reaction participants. 
 
