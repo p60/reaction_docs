@@ -17,7 +17,19 @@ Example: Let's say you wanted to find a participant by first name Zeke. You coul
 There a few different ways of adding participants in Reaction.
 
 1. Adding a participant manually by clicking on add a new participant (additional help documentation by clicking 'Add New Participant')
-2. Importing a list of participants from a csv file 
-  * Csv column names must follow the following format: 
+2. Participants can also be added from Peer60's existing database on a case-by-case basis.
 3. Triggers (described in the triggers help documentation)
-4. Participants can also be added from Peer60's existing database on a case-by-case basis.
+4. Importing a list of participants from a csv file (See Importing Participants)
+
+#### Importing Participants
+| Column Name        | Value                                                                                                |
+| ------------------ |:---------------:                                                                                     |
+| first_name         | string                                                                                               |
+| last_name          | string                                                                                               |
+| prefix             | string                                                                                               |
+| email              | string w/ @ url                                                                                      |
+| position_name      | string                                                                                               |
+| company_name       | string                                                                                               |
+| street_address(zip)| number                                                                                               |
+| locale             | One of: [cs, da, de, el, en, en_au, en_ca, en_gb, es, et, fi, fr, hu, is, it, nb, nl, pl, pt, sk, sv]|
+| gender             | One of: [unknown, male, female]                                                                      |
