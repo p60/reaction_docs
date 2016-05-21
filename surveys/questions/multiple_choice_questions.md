@@ -20,5 +20,5 @@ called Star Wars: The Phantom Menace. You could designate the corresponding valu
 let's say you want to forget that Jar Jar Binks ever existed. By specifying the value to instead be something like 'star_wars'
 you have changed what is reported (and what will be shown in the report) while at the same time removing one more instance of Jar Jar from the world. Good on you!
 
-<img src="https://raw.githubusercontent.com/p60/reaction_docs/master/surveys/screenshots/multiple_choice_label_value.png" width="700" height="400"></img>
+<img src="https://raw.githubusercontent.com/p60/reaction_docs/master/shared/screenshots/surveys/multiple_choice_label_value.png" width="700" height="400"></img>
 
