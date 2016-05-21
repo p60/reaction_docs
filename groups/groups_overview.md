@@ -15,7 +15,7 @@ There are two subclasses of participants on a group.
   2. Participants in Group
     * Participants already assigned to the group.
   
-<img src="https://raw.githubusercontent.com/p60/reaction_docs/master/groups/screenshots/group_participants.png"></img>
+<img src="https://raw.githubusercontent.com/p60/reaction_docs/master/shared/screenshots/groups/filters/group_participants.png"></img>
 
 Reaction allows for filtering of eligible/group participants as well. For more info, click on documentation icon in participants subheader on group.
 
