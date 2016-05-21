@@ -9,6 +9,6 @@ There are 3 main details to take note of regarding a trigger.
   3. SOQL - Salesforce Object Query Language. Provides search filter control for filtering salesforce contacts.
 
 **Example:** Let's say you wanted to check for a salesforce contact hourly with a specific email address.
-    <img src="https://raw.githubusercontent.com/p60/reaction_docs/master/triggers/screenshots/soql_and_frequency_example.png"width = 750></img>
+    <img src="https://raw.githubusercontent.com/p60/reaction_docs/master/shared/screenshots/triggers/soql_and_frequency_example.png"width = 750></img>
 
 By saving the trigger, reactions to the trigger become available.
