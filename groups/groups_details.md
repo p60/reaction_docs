@@ -1,10 +1,3 @@
-## Groups Details
-
-### Groups
-
-This documentation will teach you about **Groups**. Groups are closely integrated with Surveys in Reaction. 
-Each Survey in Reaction is sent to a specific group created by you. Within a group, participants are able to added and removed
-thus providing the flexibility you need to control which participants are associated with each survey initiative.
 
 #### Participants
 
