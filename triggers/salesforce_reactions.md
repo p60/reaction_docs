@@ -4,6 +4,8 @@ There are currently two available reactions available to be added to a salesforc
   1. Creating a participant.
   2. Creating a participation.
 
+**Note: Only one should be used per trigger.**
+
 ### Creating a Participant
   
 1. Attribute Mapping (A visualization showing the participant/s that will be imported into Reaction.)
