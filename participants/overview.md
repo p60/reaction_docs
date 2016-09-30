@@ -10,7 +10,7 @@ ___
 DEVS - WHEN AND HOW DOES A CLIENT SEE PARTICIPANT DATA FROM OUR COMMUNITY? WILL THEY SEE CONTACT INFO AFTER A RESPONSE? IF SO, WILL THAT PERSON BE MOVED TO THEIR PARTICIPANTS AS THEY NOW HAVE THEIR INFO ANYWAY? 
 
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/participants+page.png"This will be a screenshot of the Participants page with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/participants+page.png "Participants Page")
 
 1. Add new participants individually or in bulk.
 2. Search by (First Name, Last Name, Company Name, Position Name, Role, or Seniority)
@@ -22,7 +22,7 @@ WHAT IS THE REASONING BEHIND NOT ALLOWING THEM TO EDIT INFO? I'M SURE IT'S A GOO
 
 WHEN ADDING THE "INVALID DETAILS" WHAT DOES THIS DO? WHO IS NOTIFIED, IF ANYONE, AND WHAT HAPPENS NEXT?
 
-####Adding a New Participant
+#### Adding a New Participant
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/add+participant.gif "This will be a gif of the process to add a new participant... experiment speeding up the video a bit for typing in the actual data")
 
@@ -36,7 +36,7 @@ WHAT IS THE EXTERNAL ID?
 PC PRINCIPAL SAYS TO ADD THE GENDER "OTHER"
 
 
-####Importing Participants
+#### Importing Participants
 
 >Reaction uses .csv for uploading your list of participants. For an example list and to ensure correct formatting, you can download an example .csv file by clicking the "Import Participants" button and ![Download Example CSV Button](https://octodex.github.com/images/yaktocat)
 
@@ -54,7 +54,7 @@ LOCALE IS NOT A PARTICULARLY INTUITIVE FOR LANGUAGE. SHOULD WE ADD SOME OTHER HE
 
 WHEN DOES IT SKIP?
 
-####Searching Participants
+#### Searching Participants
 
 Should you need to search for a participant to confirm they're in your Participant database or verify their information, simply click on the ![Orange Download Button](https://octodex.github.com/images/yaktocat) and select the criteria by which you'd like to search. 
 
