@@ -1,3 +1,7 @@
+---
+  keywords: ['survey', 'surveys', 'schedule', 'tag', 'tags']
+---
+
 # Surveys
 
 > Note: Before creating your survey, to make your life easier, we recommend adding/creating any new <a href="participants">participants</a> and <a href="groups">groups</a> that will be involved. You are unable to save a survey without completing the participant invitation field.
