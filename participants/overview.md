@@ -1,3 +1,6 @@
+---
+  keywords: ['participant', 'participants', 'first name', 'last name', 'position', 'company', 'seniority', 'role']
+---
 
 # Participants
 
