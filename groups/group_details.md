@@ -1,3 +1,7 @@
+---
+  keywords: ['group', 'filter', 'filters', 'participant', 'participants', ]
+---
+
 #### Adding Participants to a Group
 
 >You can always add and remove participants to and from a group; quite unlike the attendees of your family reunion.
