@@ -5,7 +5,7 @@
 
 # Groups
 
-> The best research will have controls to ensure data integrity. One control at your disposal is **Groups**. This tool will help you preserve consistency when wanting to target the same audience throughout multiple initiatives.
+> The best research will have controls to ensure data integrity. One control at your disposal is **Groups**. This tool will help you preserve consistency when you want to target the same audience throughout multiple initiatives.
 
 ___
 
@@ -22,9 +22,7 @@ ___
 ![This was supposed to be a screenshot/gif. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Groups+Screenshot+1+fixed+.png "This will be a gif of the process to add a new group and a .png for the printed doc")
 
 1. Click the ![Grey Hamburger](https://octodex.github.com/images/yaktocat) in the top right.
-2. Click the ![White + Button](https://octodex.github.com/images/yaktocat)
-3. Fill in all the group name and description.
-4. Click "Save Group."
+2. Click the ![White + Button](https://octodex.github.com/images/yaktocat). (This will take you to the New Group creation page where you will fill in your group name and description.)
 
 
 
