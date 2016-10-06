@@ -11,7 +11,7 @@ To create 1 of your 3 email sends:
 	1. The **"Survey Link"** type will be your most common email send. 
 	2. If you're unsatisfied with the results after one send or just want to remind people you'll use the **"Survey Reminder."**
 	3. If you're still unsatisfied after 2 sends, you can send the **"Last Call"** to give your audience one last chance to participate.
-2. Select who you'd like it sent from by clicking the **"Email Configuration"** dropdown. These are created in  [Settings](../blob/master/NEEDTOSETUPCORRECTLINK) and are preconfigured combinations of the email address we want to send from, replies sent to, and an email signature; typically, the same one the sender always uses.
+2. Select who you'd like it sent from by clicking the **"Email Configuration"** dropdown. These are created in  [Settings](../blob/master/NEEDTOSETUPCORRECTLINK) and are preconfigured combinations of the email address we want to send from (we always recommend sending from a realistic-looking email alias), replies sent to, and an email signature; typically, the same one the sender always uses.
 3. Add your Email **Subject**.
 4. Add your Email **Body** while utilizing the **Insert Variable** tool. This allows you to add participant attributes (e.g. Dear "Participant First Name) and various ways to link the survey (e.g. Survey Link Button).
 5. **Preview** your email by clicking the eyeball and sending it to your own email address. This is exactly as it will appear to recipients and is meant for you to note necessary changes and eventually give it the sign of approval. 
