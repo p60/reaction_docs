@@ -17,9 +17,10 @@ To create 1 of your 3 email sends:
 5. **Preview** your email by clicking the eyeball and sending it to your own email address. This is exactly as it will appear to recipients and is meant for you to note necessary changes and eventually give it the sign of approval. 
    *  Should you decide that one of your email drafts doesn't need to be sent or if you just want to start from scratch you can click the **"Delete"** button trash can on the bottom.
 6. Once you've confirmed it is the way you want it, click **"Delivery Actions"** and select "Create Deliveries for Participants."
-7. When you have a send schedule in mind click **"Delivery Actions"** again and select "Schedule Created Deliveries."
-	1. To send it immediately (you procrastinator, you), you will toggle the "Schedule Delivery Time" off, read the dialogue letting you know that this is the point of no return as we can't unsend emails, click the "Ready" box, and "Deliver Email Messages."
+7. When you have a send schedule in mind click **"Delivery Actions"** again and select "Schedule Created Deliveries." 
+	1. To send it immediately (you procrastinator), you will toggle the "Schedule Delivery Time" off, read the dialogue letting you know that this is the point of no return as we can't unsend emails, click the "Ready" box, and "Deliver Email Messages."
 	2. To schedule a future send, toggle the "Schedule Deliver Time" on, select the date and time you'd like this email to be sent out, read the dialogue letting you know that this is the point of no return as we can't un-send emails, click the "Ready" box, and "Deliver Email Messages."
+    * Remember, you need to open the survey before you can schedule deliveries. If you're survey isn't open, save the email, make sure the survey looks perfect (you will not be able to make any changes to the survey or email after launch), and go to the details page. Click on the hamburger menu at the top right, and click the calendar, then you can either schedule a time to close the survey, or just open it without a close date (you will be able to close it manually when you want it to stop collecting data). Click open survey and now you can schedule the email, no problem!
 
 
 
