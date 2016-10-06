@@ -15,7 +15,7 @@
    2.  The "Participant Group" dropdown will be where you select the pre-configured audience you want to reach. (You did read the note at the beginning that told you to create a group before you got to this point, right? If not, click here **ADD LINK** to learn how to create groups.) **Remember**, you can't choose a different *Participant Group* once you've saved your survey.
 3. **Design Settings** - We don't want to distract from the research; but here's your chance to make things a teensy bit flashy.
    1. If you're using Reaction, chances are you know someone who has created a logo, even if you haven't yourself. Show it off! (If you haven't added your logo yet, click here **ADD LINK**)
-   2. The "Admin Color" can be used to organize surveys in a visual way or, it could be a rare opportunity to choose your favorite color while you're getting paid for it. 
+   2. The "Admin Color" can be used to organize surveys in a visual way or, it could be a rare opportunity to choose your favorite color while you're getting paid for it. The Admin Color determines the color of the tile that will be displayed in the "Surveys" home page.
 
 #### Details Tab
 
