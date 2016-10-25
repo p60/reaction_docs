@@ -9,3 +9,6 @@
 **Option 2**: ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Help+Icon.png "Help Icon") is found on most pages in the upper right (and on a few, the bottom left) and clicking on it will take you directly to help related to the page you're currently on. 
 
 **Option 3**: Sometimes the help icon ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Help+Icon.png "Help Icon")  is nested within a menu ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Hamburger.png "Hamburger Button") .
+
+<a show-help-topic-for="groups/overview">
+</a>
