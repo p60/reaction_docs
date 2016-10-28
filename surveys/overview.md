@@ -9,9 +9,6 @@
 DEVS - HOW CAN WE BEST ADD "BEST PRACTICES" TO THE DOCUMENTATION? FORMATTING APPEARS LIMITED IN MARKDOWN BUT WE DON'T NECESSARILY WANT IT SEPARATED.
 ___
 **Surveys**, the means you use to do your research with Reaction, are located on the left. This is where you'll go to see all your ongoing and completed surveys, as well as create news ones. 
-<center>
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/menu+bar+.png "This will be a screenshot of the menu bar with Surveys circled")
-</center>
 
 If you're a first timer in Reaction, or you want just want to get down to business, you'll want to get straight to the creation process(add link to "configuring the survey") and click the ![](Insert + button here) in the top right corner. This will give you the option to create one of two types of surveys:
 
