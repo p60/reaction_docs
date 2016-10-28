@@ -28,5 +28,5 @@
 
 1. **Completion Page Custom Content** - So you have something you want to say to your participants? A "thank you" or a "now what?" fits perfectly here. (e.g. "Thank you for participating! As a 'thank you' we've shared your peers' responses to one of the questions here!" OR "If you have any additional questions please reach out to your account manager."
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/3+Shared+Viz+%2B+Custom+01.png "This will be a screenshot of an example of shared viz and completiion page custom content")
-2. **NPS Options** - THIS IS A REQUIRED, THOUGH NOT ENTIRELY CLEAR WHY, FIELD. WHY? TREVOR IS GOING TO TALK WITH JASON ABOUT GETTING RID OF IT IN FREEFORM. THEN JUST DEFINE IT FOR NPS HERE
+2. **NPS Options** - TESTERS - JUST TYPE IN WHATEVER YOU WANT HERE FOR NOW. THIS IS A REQUIRED, THOUGH NOT ENTIRELY CLEAR WHY, FIELD. WHY? TREVOR IS GOING TO TALK WITH JASON ABOUT GETTING RID OF IT IN FREEFORM. THEN JUST DEFINE IT FOR NPS HERE
 
