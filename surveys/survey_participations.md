@@ -7,8 +7,9 @@
 To add participations to your survey:
 
 1. Click "Create Participations For 'group_name'"
-2. That's it. Super anti-climactic, right? Maybe help yourself to a snack.
+2. That's it! Super anti-climactic, right? Maybe help yourself to a snack.
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png "This will be a gif of how to add participations")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/solitaire.gif "This will be a gif of how to add participations. Maybe swap to solitaire after creating it because it's so easy...")
 
-MOVE THE "SCHEDULE SURVEYS" SECTION SOMEWHERE WITHIN THE EMAILS TAB?
+> Please note that if any contacts are added to your target audience, you will need to create a participation for them as well by repeating this process. 
+
