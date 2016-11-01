@@ -14,14 +14,14 @@
    2.  Don't pester people with questions without a good reason! What are your goals? **What are you trying to learn from the results of your survey?** What is the meaning of the universe? Knowing what direction you need to go will help as you develop questions and compose emails. Also keep in mind, you, or someone else entirely, could be coming back to this in a year or more. Even more reason to use the often ignored "description" field!
    3.  Tagging allows you to create additional markers to a survey for future searches. These are a descriptor that provide another way to search for similar Surveys in both the Survey Catalog and when creating custom reports. **If I want to create a relationship between two or more surveys that I want to later browse for trends or correlations using a custom report I might tag them** (e.g. Comic-Con 2015 and Comic-Con 2016 might have a "comic-con" tag).
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Participant+Invitation.png"Participant Invitation")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Participant+Invitation.png "Participant Invitation")
 
 **Participant Invitation** - How do you want your survey to be distributed? (We're working on the "by owl" option a la Harry Potter)
 
    1. "Is Trigger Based?" or — "if this happens, then do that" — will allow you to send a survey automatically when a case is closed in Salesforce.  *(For instructions on how to build triggers, search for "triggers overview" in the help menu).*
    2.  The "Participant Group" dropdown will be where you select the pre-configured audience you want to reach. *(For instructions on how to build a participant group, search for "groups overview" in the help menu).*. 
 
- ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Design+Settings.png"Design Settings")
+ ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Design+Settings.png "Design Settings")
 
 **Design Settings** - We don't want to distract from the research, but here's your chance to make things a teensy bit flashy.
 
