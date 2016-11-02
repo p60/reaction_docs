@@ -19,21 +19,26 @@
 
 #### Adding a Question to Your Survey
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/2+Add+Question+2-01.png "This will be a screenshot of the question creation page with the following annotations starting with 3.")
 
-1. Click **"Add Question"** in the center of the Questions page or in the orange hamburger menu.
+
+1. On the questions page, click **"Add Question"** in the center of the page or in ![Orange Hamburger Menu](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Orange+Hamburger.png).
 2. Select the **question type** you'd like from the list.
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/Add+Question+01.png "This will be a screenshot of the question creation page with the following annotations starting with 3.")
+
 3. Type in your **question** as you'd like it to be seen by participants.
 4. If needed, add any **question instructions** for clarification.
-5. If you'd like a different **reporting name** for this question, unlock the default by clicking the padlock and add your new reporting name.  
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/Add+Question+02.png "This will be a screenshot of the question creation page with the following annotations starting with 3.")
+
+5. If you'd like a different **reporting name** for this question, unlock the default by clicking the ![padlock](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Padlock.png) and add your new reporting name.  
 6. Add any **question tags**. Tags allow for marking a question with additional identifiers. These identifiers will "tag" the question so you can find the question (f.e. in a report) by either the question tag(s) *OR* the question itself. A useful example would be .........EXAMPLE....Often, this will be done to browse trends and correlations between similar questions. 
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/Add+Question+03.png "This will be a screenshot of the question creation page with the following annotations starting with 3.")
 7. Add your **choice values** (i.e. the displayed choices that a participant will choose from) by filling in the value field and adding any new values by clicking "add new value."
 8. Click the **Save Question** button.
 
 ##### Some question types have additional options for customization:
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/3+Question+Options.png  "Survey Question Options")
-
+ADD ANNOTATIONS TO THE LARGER SCREENSHOT
 1. **Customize reported values** - is a handy way to truncate or customize a choice value for reports. (e.g. Original Value: "I am a big fan of the Healthcare Common Procedure Coding System" > Report Value: "Fan of HCPCS").
 2. **Include "Other" Answer** - adds a freeform text box to provide an answer/choice that isn't already listed.
 3. **Limit Selectable Answers** - keeps a participant from clicking every box in a "Multiple Choice Many" style question.
@@ -47,7 +52,7 @@ To create a new condition:
 
 1. On the question list page, put all of your questions in the order you'd like them to appear to the participant before adding any conditions. Do this by clicking the up and down arrows to the right of each question. **The order cannot be changed if there are conditions!**
 2. To add a condition (i.e. create a conditional question), click on the question that you want displayed *only* if certain conditions are met. 
-3. Click on the orange hamburger button, select "manage conditions," and click "add condition."
+3. Click on the ![Orange Hamburger Menu](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Orange+Hamburger.png), select "manage conditions," and click "add condition."
    1. Select the base question (ex. I only want to ask "What are your favorite toppings?" to those who responded "yes" to the question "Do you like pizza?" — "Do you like pizza?" is the base question).
    2. Using the "Operators" dropdown, select the operator that satisfies the condition that needs to be met. (Some operators are only available for certain question types). Here are all available operators and an example of each in use:
    
@@ -75,8 +80,7 @@ To create a new condition:
 
 To preview your survey:
 
-1. On the question list page, click the orange hamburger button and select preview.
+1. On the question list page, click the ![Orange Hamburger Menu](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Orange+Hamburger.png) and select preview.
 2. Verify that each question and condition are working and look as expected. At the end, you have the option to Restart Preview and go through it again (useful if you have different conditions) or you may just close the window. 
 
 ## Congratulations, you've just created a survey!
-
