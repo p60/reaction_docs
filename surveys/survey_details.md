@@ -38,3 +38,7 @@
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/3+Shared+Viz+%2B+Custom+01.png "This will be a screenshot of an example of shared viz and completiion page custom content")
 
+1. **Shared Visualization** -   It's not just you that is curious what your peers think! As an incentive, out of the goodness of your heart, for whatever reason, you're able to choose to share the results of a question (or two or three) with your participants. Just let your myprojects team know which data you'd like to share...
+2. Here is an example of where your **Completion Page Custom Content** will show up at the end of a survey. 
+DO WE MOVE THIS SCREENSHOT TO A DIFFERENT DOC? IF WE'RE GOING TO HAVE SHARED VIZ INVISIBLE TO ALL BUT SUPER ADMINS IT MIGHT FIT BETTER SOMEWHERE ELSE.
+
