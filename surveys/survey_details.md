@@ -27,14 +27,14 @@
 
    1. If you're using Reaction, chances are you know someone who has created a logo, even if you haven't yourself. Show it off! *(For instructions on how to add a logo, search for "logo" in the help menu).*   
    2. The "Admin Color" can be used to organize surveys in a visual way or, it could be a rare opportunity to choose your favorite color while you're getting paid for it. 
-   3. THERE WILL BE AN ADDITIONAL DESIGN SETTINGS PAGE TBD
+   3. THERE WILL BE AN ADDITIONAL DESIGN SETTINGS PAGE TBD - DANNY, IGNORE.
 
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/2+Survey+Details01.png "This will be a screenshot of the the rest of the DETAILS section with annotation of each section. Survey Details Tab - Part 2 not yet complete")
 
 
 1. **Completion Page Custom Content** - So you have something you want to say to your participants? A "thank you" or a "now what?" fits perfectly here. (e.g. "Thank you for participating! As a 'thank you' we've shared your peers' responses to one of the questions here!" OR "If you have any additional questions please reach out to your account manager."
-2. **NPS Options** - THIS IS A REQUIRED, THOUGH NOT ENTIRELY CLEAR WHY, FIELD. WHY? TREVOR IS GOING TO TALK WITH JASON ABOUT GETTING RID OF IT IN FREEFORM. THEN JUST DEFINE IT FOR NPS HERE
+2. **NPS Options** - DANNY, JUST PUT IN GIBBERISH HERE
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/3+Shared+Viz+%2B+Custom+01.png "This will be a screenshot of an example of shared viz and completiion page custom content")
 
