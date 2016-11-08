@@ -6,7 +6,7 @@
 
 >I picture a survey without good *Questions* as a dinner party without dinner. You show up hungry expecting food and instead get a shpeel about your friend's new scented oil business that you should *totally* be a part of. Don't be that person. Feed your "friends" (with interesting and worthwhile questions) and make them happy they came. They might just show up for the next one — and the one after that. 
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Main+Questions+Page.png "This will be a screenshot of the Questions section with annotation of each section. Timer, Add Question, Hamburger Bar, Questions, Reorder Questions, Update Questions order - Main Questions Page WE NEED TO ADD A CONDITION ICON WITH DESCRIPTION")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/1+Main+Questions+Page.png "This will be a screenshot of the Questions section with annotation of each section. Timer, Add Question, Hamburger Bar, Questions, Reorder Questions, Update Questions order - Main Questions Page WE NEED TO ADD A CONDITION ICON WITH DESCRIPTION")
 
 ##### Question Types
 
@@ -27,10 +27,10 @@
 
 3. Type in your **question** as you'd like it to be seen by participants.
 4. If needed, add any **question instructions** for clarification.
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/Add+Question+02.png "This will be a screenshot of the question creation page with the following annotations starting with 3.")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/Add+Question+02.png"This will be a screenshot of the question creation page with the following annotations starting with 3.")
 
 5. If you'd like a different **reporting name** for this question, unlock the default by clicking the ![padlock](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Padlock.png) and add your new reporting name.  
-6. Add any **question tags**. Tags allow for marking a question with additional identifiers. These identifiers will "tag" the question so you can find the question (f.e. in a report) by either the question tag(s) *OR* the question itself. A useful example would be .........EXAMPLE....Often, this will be done to browse trends and correlations between similar questions. 
+6. Add any **question tags**. Tags allow for marking a question with additional identifiers. These identifiers will "tag" the question so you can find the question (i.e. in a report) by either the question tag(s) *OR* the question itself. An example might be if I periodically ask "who is your preferred pizza delivery person" in various surveys. This would allow me to go back and track trends over time to see if Jimmy increases in popularity. This might prompt all new questions to help me determine the reasoning behind Jimmy's newfound popularity. 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/Add+Question+03.png "This will be a screenshot of the question creation page with the following annotations starting with 3.")
 7. Add your **choice values** (i.e. the displayed choices that a participant will choose from) by filling in the value field and adding any new values by clicking "add new value."
 8. Click the **Save Question** button.
