@@ -8,7 +8,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 #### Organization Details
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/organization+details+-+settings.png "This will be a screenshot of the Organization Details Panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/organization+details+-+settings.png "This will be a screenshot of the Organization Details Panel with the following annotations:")
 
 1. Organization Display Name - We like flexibility, and not just at our company yoga retreats. So we want you to be able to swap your displayed (i.e. viewed by recipients) name at any time to fit your needs. TREVOR IS VERIFYING THIS. ALSO, EXAMPLES OF WHEN THIS MIGHT BE GOOD?
 
@@ -19,7 +19,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 #### Managing Users and Access Groups
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/manage+users+and+groups+-+settings.png "This will be a screenshot of the Manage Users  and Manage Access Groups Panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/manage+users+and+groups+-+settings.png "This will be a screenshot of the Manage Users  and Manage Access Groups Panel with the following annotations:")
 
 1. Manage Users - Edit existing permissions, roles, and other user info
 2. Add a new Reaction User 
@@ -27,7 +27,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 4. Manage Access Groups - Edit White and Blacklist users for certain reports.
 
 ##### Add a new Reaction User
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://ima.gs/Placeholder-400x200.png "This will be a GIF of the Add User popup with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png "This will be a GIF of the Add User popup with the following annotations:")
 
 1. Add the **First Name**, **Last Name**, and **Email** of the new user.
 2. WHAT DO WE DO WITH THE PASSWORD SECTION?
@@ -45,7 +45,7 @@ REMIND CASSIDY THIS IS NOW A GIF
 
 >**Access Groups** allow you to create *groups* that are later granted *access* to the reports they need to see or blacklist them from the ones they don't. Restricting the access to a certain report is explained ADD LINK here.
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://ima.gs/Placeholder-400x200.png "This will be a screenshot of the Add Access Group popup with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png  "This will be a screenshot of the Add Access Group popup with the following annotations:")
 
 1. Type in the name of the access group. Ex. Customer Research - Product A
 2. Type in and select the names of those users you want Whitelisted or Blacklisted (NEED MORE INFO ON WHY HAVE BOTH. IF I'M NOT IN THE WHITELIST CAN WE ASSUME I'M BLACKLISTED? IS THERE MORE TO THIS?) (Trevor and I discovered that if you're blacklisted you're not able to even see the report)
@@ -55,7 +55,7 @@ REMIND CASSIDY THIS IS NOW A GIF
 >Depending on your audience you may want to change who the email is coming from. **Email Configurations** allow you create a template to easily access the email address you'd like to send from, be replied to, and the individual's email signature. 
 
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://ima.gs/Placeholder-400x200.png "This will be a screenshot of the Add/Edit Email Configuration popup with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png  "This will be a screenshot of the Add/Edit Email Configuration popup with the following annotations:")
 
 1. Name (not shown to recipients) - This is the name of the configuration. Not necessarily the name of the person in the template. DO I UNDERSTAND THIS CORRECTLY? (from trevor: yes, yes you do. we'll need new screenshots as changes are forthcoming as of 9/28)
 2. From Name - This IS the  name of the person the email should appear to be sent from.
@@ -65,14 +65,14 @@ REMIND CASSIDY THIS IS NOW A GIF
 
 #### Email Display Settings
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/email+display+-+settings.png "This will be a screenshot of the Email Display Settings panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/email+display+-+settings.png "This will be a screenshot of the Email Display Settings panel with the following annotations:")
 
 1. Survey Button Color - This allows you to pick the color of the Survey Button that you can choose to add to your emails.
 2. Email Start Survey Button Style - This allows you to pick the style of the Survey Button that you can choose to add to your emails.
 
 #### Survey Display Settings
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey+display+-+settings.png "This will be a screenshot of the Survey Display Settings panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/survey+display+-+settings.png "This will be a screenshot of the Survey Display Settings panel with the following annotations:")
 
 1. Primary Palette - This will be the primary color in your surveys. (Remember you can preview your survey to make sure you like the look before sending)
 2. Secondary Palette - This will be the secondary color in your surveys. 
@@ -81,14 +81,14 @@ REMIND CASSIDY THIS IS NOW A GIF
 
 #### Admin Display Settings & Supported Locales
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/admin+display+-+settings.png "This will be a screenshot of a the admin display and supported locales panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/admin+display+-+settings.png "This will be a screenshot of a the admin display and supported locales panel with the following annotations:")
 
 1. Admin display settings - This allows you to select what appears in your organization's dashboard. 
 2. Supported Locales - WHAT DOES THIS DO? (FROM TREVOR: THIS ALLOWS YOU TO HAVE DUPLICATE QUESTIONS AND EMAILS FOR DIFFERENT LANGUAGES. He'll verify this with Jason)
 
 #### Integrations
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://ima.gs/Placeholder-400x200.png "This will be a screenshot of a the integrations panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png "This will be a screenshot of a the integrations panel with the following annotations:")
 
 This links your Salesforce account to Reaction to begin creating ![](triggers. 
 
