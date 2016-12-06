@@ -16,7 +16,7 @@
 3. View audience info.
 4. Edit/Add to existing audience 
 
-####Adding a New Audience
+### Adding a New Audience
 
 ![This was supposed to be a screenshot/gif. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/groups_overview/Groups+Screenshot+1+fixed+.png "This will be a gif of the process to add a new group and a .png for the printed doc")
 
