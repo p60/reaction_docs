@@ -3,14 +3,14 @@
 ---
 
 
-###Adding Contacts to an Audience
+##Adding Contacts to an Audience
 
 >You can always add and remove contacts to and from an audience; quite unlike the attendees of your family reunion.
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png "This will be a gif of the process to add and remove participants to and from a group")
 
 
-#### Filtering Contacts
+### Filtering Contacts
 
 > Imagine for a moment you could filter the attendees of your family reunion. (Don't get too caught up in this example, it's hypothetical). Maybe you only want the interesting ones, or the one's with good personal hygiene.  I know I like Aunt Margo's jokes and Uncle Buck's ribs. **Filtering Contacts** allows you to create a group that fits your specific needs. Selfish? Maybe; but effective!
 
@@ -28,5 +28,6 @@
 6. MENTION HOW REMOVING FOLLOWS THE SAME FORMAT
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png "This will be a gif of the process of filtering participants and adding them to a group")
+
 
 
