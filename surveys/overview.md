@@ -15,7 +15,7 @@ If you have any existing surveys, whether they're still being worked on ("Draft"
 
 WE WILL NEED TO REDO THIS SCREENSHOT WITH THE NEW ICONS
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_overview/survey+card.png "This will be a screenshot of a Survey tile with annotations describing each aspect of it")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_overview/survey+tile.png "This will be a screenshot of a Survey tile with annotations describing each aspect of it")
 
 
 
