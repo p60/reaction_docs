@@ -27,7 +27,7 @@
 
 3. Type in your **question** as you'd like it to be seen by participants.
 4. If needed, add any **question instructions** for clarification.
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/Add+Question+02.png"This will be a screenshot of the question creation page with the following annotations starting with 3.")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/Add+Question+02.png)
 
 5. If you'd like a different **reporting name** for this question, unlock the default by clicking the ![padlock](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Padlock.png) and add your new reporting name.  
 6. Add any **question tags**. Tags allow for marking a question with additional identifiers. These identifiers will "tag" the question so you can find the question (i.e. in a report) by either the question tag(s) *OR* the question itself. An example might be if I periodically ask "who is your preferred pizza delivery person" in various surveys. This would allow me to go back and track trends over time to see if Jimmy increases in popularity. This might prompt all new questions to help me determine the reasoning behind Jimmy's newfound popularity. 
