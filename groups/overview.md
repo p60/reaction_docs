@@ -18,7 +18,7 @@
 
 ### Adding a New Audience
 
-![This was supposed to be a screenshot/gif. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/groups_overview/Groups+Screenshot+2.png)
+![This was supposed to be a screenshot/gif. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/groups_overview/Group_Overview_Adding+a+New+Audience.png)
 
 1. Click the ![Grey Hamburger](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png) in the top right.
 2. Click the ![White + Button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Create+Icon.png). (This will take you to the New Audience creation page where you will fill in your audience name and description.)
