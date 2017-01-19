@@ -19,7 +19,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 #### Managing Users and Access Groups
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/manage+users+and+groups+-+settings.png "This will be a screenshot of the Manage Users  and Manage Access Groups Panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/manage%2Busers%2Band%2Bgroups%2B-%2Bsettings.png)
 
 1. Manage Users - Edit existing permissions, roles, and other user info
 2. Add a new Reaction User 
