@@ -34,7 +34,7 @@ ADD CURRENT QUESTION DESCRIPTION NUMBER TO THIS LIST
 
 > **Explore** is an option available to you on each visualization.  It allows you to drill down from the current data point(s) you see in the visualization. *(Important: you cannot save the changes you make in explore from a pre-configured question dashboard, however this feature is possible by creating a **New Visualization**.)*
 
-![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/visualization+dimensions+and+measure.png "This will be a screenshot of a visualization, explore button, and possibly the explore state in a pop out. A gif might be better here")
+![Preview Page Nav Bar]("This will be a screenshot of a visualization, explore button, and possibly the explore state in a pop out. A gif might be better here")
 
 #### Add New Visualization
 
@@ -50,7 +50,7 @@ ADD CURRENT QUESTION DESCRIPTION NUMBER TO THIS LIST
 	 * Group = **Questions**, Dimension = **Name**, Example: "What is your favorite color?"
 	 * Group = **Answers**, Dimension = **Value(s)**, Example(s): "Red," "Blue," "Green"
 	 * Group = **Positions and Job Titles**, Dimension = **Name**, Example(s): "Chief Executive," "Director of Operations," "Nurse Practitioner"
-	  ![screenshot of dimension example](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/new+visualization+dimensions+and+measure.png)
+	  ![screenshot of dimension example](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/visualization+dimensions+and+measure.png)
 
 * A **measure** provides the metrics of the dimensions. Here are some examples:
 		* Group = **Answers**, Measures = **Percent of Total**, Example(s): "Red" = 66%, "Blue" = 22%, "Green" = 12%
