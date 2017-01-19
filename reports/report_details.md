@@ -9,7 +9,7 @@
 
 ### Table of Contents
 
-![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/report+ToC.png)
+![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/Reports+Table+of+Contents.png)
 
 When you first open a report, a sidebar will open alongside it. This is a list of all of the pages of your report. You can open these pages by clicking on them, configure the report, or export the entire report to PDF from this side menu.
 
