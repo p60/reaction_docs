@@ -26,7 +26,7 @@ So, a survey triggered the creation of an accompanying report and you want to tw
 
 ### Creating Custom Reports
 
-To create a **Custom Report** from scratch, simply click the ![hamburger button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png "hamburger menu") in the top right and then the ![+ icon](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Create+Icon.png "add report"). At this point, you'll be brought to the "Configure Report" screen where you name your custom report and begin selecting questions to add. Follow the above example .gif.
+To create a **Custom Report** from scratch, simply click the ![hamburger button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png "hamburger menu") in the top right and then the ![+ icon](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Create+Icon.png "add report"). At this point, you'll be brought to the "Configure Report" screen where you name your custom report and begin selecting questions to add. Follow the above example .gif...
 
 
 
