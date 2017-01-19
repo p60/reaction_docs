@@ -11,7 +11,7 @@
 
 Similar to the Surveys Catalog, all of your reports are housed here. Each time you open a created survey a report will automatically be generated here with the same name. You can customize those reports as well as create a **custom report** with any question from any survey from scratch. 
 
-![report tile with annotations. See Survey tile format](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_overview/report+card.png) 
+![report tile with annotations. See Survey tile format](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_overview/Report+Overview.png) 
 
 
 ### Viewing Reports
