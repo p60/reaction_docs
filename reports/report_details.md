@@ -19,7 +19,7 @@ When you first open a report, a sidebar will open alongside it. This is a list o
 >  
 >  <center>![data monkey](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/data+monkey.jpg "data monkey")</center>
 
-![Preview Page w/o Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/reports+page.png "This will be a screenshot of what a report page looks like WITHOUT the nav bar with the following annotations: Also add an overlay of the additional buttons you get after hitting the top left cog")
+![Preview Page w/o Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/reports+page+updated.png "This will be a screenshot of what a report page looks like WITHOUT the nav bar with the following annotations: Also add an overlay of the additional buttons you get after hitting the top left cog")
 
 ADD CURRENT QUESTION DESCRIPTION NUMBER TO THIS LIST
 1. Add a new visualization
