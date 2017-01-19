@@ -4,7 +4,7 @@
 
  When you find yourself needing help, you'll almost always have at least two options.
 
-**Option 1**: ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Nav+Help.png "Nav Bar Help") is always on the left side of the screen. If you're reading this, you found it already and you can find it again. Once you're there, it's as simple as clicking the ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png  "Hamburger Button") on the top right and finding what you're looking for by scrolling or searching.
+**Option 1**: ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/knowledgebase/Knowledgebase_Library_Help.png) is always on the left side of the screen. If you're reading this, you found it already and you can find it again. Once you're there, it's as simple as clicking the ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png  "Hamburger Button") on the top right and finding what you're looking for by scrolling or searching.
 
 ![gif of above process](process.gif)
 
