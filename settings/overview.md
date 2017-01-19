@@ -45,7 +45,7 @@ REMIND CASSIDY THIS IS NOW A GIF
 
 >**Access Groups** allow you to create *groups* that are later granted *access* to the reports they need to see or blacklist them from the ones they don't. Restricting the access to a certain report is explained ADD LINK here.
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png  "This will be a screenshot of the Add Access Group popup with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Add+a+new+Access+Group.png)
 
 1. Type in the name of the access group. Ex. Customer Research - Product A
 2. Type in and select the names of those users you want Whitelisted or Blacklisted (NEED MORE INFO ON WHY HAVE BOTH. IF I'M NOT IN THE WHITELIST CAN WE ASSUME I'M BLACKLISTED? IS THERE MORE TO THIS?) (Trevor and I discovered that if you're blacklisted you're not able to even see the report)
