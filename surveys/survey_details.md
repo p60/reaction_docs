@@ -36,7 +36,7 @@
 1. **Completion Page Custom Content** - So you have something you want to say to your participants? A "thank you" or a "now what?" fits perfectly here. (e.g. "Thank you for participating! As a 'thank you' we've shared your peers' responses to one of the questions here!" OR "If you have any additional questions please reach out to your account manager."
 2. **NPS Options** - DANNY, JUST PUT IN GIBBERISH HERE
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/3+Shared+Viz+%2B+Custom+01.png "This will be a screenshot of an example of shared viz and completiion page custom content")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Survey+Completion+Page+Custon+C.png")
 
 1. **Shared Visualization** -   It's not just you that is curious what your peers think! As an incentive, out of the goodness of your heart, for whatever reason, you're able to choose to share the results of a question (or two or three) with your participants. Just let your myprojects team know which data you'd like to share...
 2. Here is an example of where your **Completion Page Custom Content** will show up at the end of a survey. 
