@@ -34,7 +34,7 @@ ADD CURRENT QUESTION DESCRIPTION NUMBER TO THIS LIST
 
 > **Explore** is an option available to you on each visualization.  It allows you to drill down from the current data point(s) you see in the visualization. *(Important: you cannot save the changes you make in explore from a pre-configured question dashboard, however this feature is possible by creating a **New Visualization**.)*
 
-![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/report+explore.gif "This will be a screenshot of a visualization, explore button, and possibly the explore state in a pop out. A gif might be better here")
+![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/visualization+dimensions+and+measure.png "This will be a screenshot of a visualization, explore button, and possibly the explore state in a pop out. A gif might be better here")
 
 #### Add New Visualization
 
