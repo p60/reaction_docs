@@ -55,7 +55,7 @@ REMIND CASSIDY THIS IS NOW A GIF
 >Depending on your audience you may want to change who the email is coming from. **Email Configurations** allow you create a template to easily access the email address you'd like to send from, be replied to, and the individual's email signature. 
 
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png  "This will be a screenshot of the Add/Edit Email Configuration popup with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Email+Configurations.png)
 
 1. Name (not shown to recipients) - This is the name of the configuration. Not necessarily the name of the person in the template. DO I UNDERSTAND THIS CORRECTLY? (from trevor: yes, yes you do. we'll need new screenshots as changes are forthcoming as of 9/28)
 2. From Name - This IS the  name of the person the email should appear to be sent from.
@@ -65,14 +65,14 @@ REMIND CASSIDY THIS IS NOW A GIF
 
 #### Email Display Settings
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/email+display+-+settings.png "This will be a screenshot of the Email Display Settings panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/email%2Bdisplay%2B-%2Bsettings.png)
 
 1. Survey Button Color - This allows you to pick the color of the Survey Button that you can choose to add to your emails.
 2. Email Start Survey Button Style - This allows you to pick the style of the Survey Button that you can choose to add to your emails.
 
 #### Survey Display Settings
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/survey+display+-+settings.png "This will be a screenshot of the Survey Display Settings panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/suvey%2Bdisplay%2B-%2Bsettings.png)
 
 1. Primary Palette - This will be the primary color in your surveys. (Remember you can preview your survey to make sure you like the look before sending)
 2. Secondary Palette - This will be the secondary color in your surveys. 
@@ -88,7 +88,7 @@ REMIND CASSIDY THIS IS NOW A GIF
 
 #### Integrations
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png "This will be a screenshot of a the integrations panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Integrations.png)
 
 This links your Salesforce account to Reaction to begin creating ![](triggers. 
 
