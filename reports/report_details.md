@@ -9,7 +9,7 @@
 
 ### Table of Contents
 
-![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/report+ToC.png "This will be a screenshot of what a report page looks like at load w/ nav bar or ToC with the following annotations")
+![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/report+ToC.png)
 
 When you first open a report, a sidebar will open alongside it. This is a list of all of the pages of your report. You can open these pages by clicking on them, configure the report, or export the entire report to PDF from this side menu.
 
@@ -50,7 +50,7 @@ ADD CURRENT QUESTION DESCRIPTION NUMBER TO THIS LIST
 	 * Group = **Questions**, Dimension = **Name**, Example: "What is your favorite color?"
 	 * Group = **Answers**, Dimension = **Value(s)**, Example(s): "Red," "Blue," "Green"
 	 * Group = **Positions and Job Titles**, Dimension = **Name**, Example(s): "Chief Executive," "Director of Operations," "Nurse Practitioner"
-	  ![screenshot of dimension example](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/new+visualization+dimensions+and+measure.png "This will be a screenshot of one of the above examples with the relationships between Answers, Values, and Results")
+	  ![screenshot of dimension example](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/new+visualization+dimensions+and+measure.png)
 
 * A **measure** provides the metrics of the dimensions. Here are some examples:
 		* Group = **Answers**, Measures = **Percent of Total**, Example(s): "Red" = 66%, "Blue" = 22%, "Green" = 12%
