@@ -23,7 +23,7 @@
 
 1. On the questions page, click **"Add Question"** in the center of the page or in ![Orange Hamburger Menu](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Orange+Hamburger.png).
 2. Select the **question type** you'd like from the list.
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/mc+question+7+and+8-01.png)
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/new+multiple+choice+many+question-01.png)
 
 3. Type in your **question** as you'd like it to be seen by participants.
 4. If needed, add any **question instructions** for clarification.
