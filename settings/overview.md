@@ -8,7 +8,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 #### Organization Details
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/organization+details+-+settings.png "This will be a screenshot of the Organization Details Panel with the following annotations:")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/organization%2Bdetails%2B-%2Bsettings.png)
 
 1. Organization Display Name - We like flexibility, and not just at our company yoga retreats. So we want you to be able to swap your displayed (i.e. viewed by recipients) name at any time to fit your needs. TREVOR IS VERIFYING THIS. ALSO, EXAMPLES OF WHEN THIS MIGHT BE GOOD?
 
