@@ -6,7 +6,7 @@ keywords: ['participant', 'participants', 'first name', 'last name', 'position',
 
 > Note: Due to the sensitive nature of the peer60 community, as of 11/11/2016 peer60 will still be compiling the list of participants by title or other criteria you'd like to reach out to. 
 
-**Contacts** houses all of the individuals you can send a survey to (excluding the peer60 community). Whenever a survey link is clicked on, a participant is prompted to verify key information including: Name, Company Name, Position Name, and Postal Code. This ensures participant data is current.
+**Contacts** houses all of the individuals you can send a survey to (excluding the peer60 community). Whenever you create a survey you have the option to add a page that allows a participant to verify key information including: Name, Company Name, Position Name, and Postal Code. This ensures participant data.
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/participants_overview/contacts+overview+page.png "Contacts Page")
 
@@ -17,7 +17,7 @@ keywords: ['participant', 'participants', 'first name', 'last name', 'position',
 
 ### Adding a New Contact
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/participants_overview/add+new+participant+new.gif "This will be a gif of the process to add a new contact... experiment speeding up the video a bit for typing in the actual data")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/participants_overview/add+new+participant+new.gif)
 
 1. Click the  ![hamburger](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png "hamburger")
 2. Click the ![hamburger](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Create+Icon.png "hamburger")
