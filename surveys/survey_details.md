@@ -2,7 +2,7 @@
   keywords: ['survey', 'surveys', 'creating', 'details', 'configuration', 'liquid', 'tag', 'tags', 'invitation', 'invitations', 'trigger', 'logo', 'color', 'visualizations', 'custom', 'completion', 'subject']
 ---
 
-#### Details Tab
+## Details Tab
 
 > Whenever you're ready to open your survey to your participants **(Note: This is a requirement before scheduling emails)** come back to this page, click the ![hamburger menu](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png) in the top right, schedule, and follow the instructions! 
 
@@ -19,7 +19,7 @@
 **Participant Invitation** - How do you want your survey to be distributed? (We're working on the "by owl" option a la Harry Potter)
 
    1. "Is Trigger Based?" or — "if this happens, then do that" — will allow you to send a survey automatically when a case is closed in Salesforce.  *(For instructions on how to build triggers, search for "triggers overview" in the help menu).*
-   2.  The "Participant Group" dropdown will be where you select the pre-configured audience you want to reach. *(For instructions on how to build a participant group, search for "groups overview" in the help menu).*. 
+   2.  The "Audience" dropdown will be where you select the pre-configured audience you want to reach. *(For instructions on how to build a audience, search for "audience overview" in the help menu).*. 
 
  ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Design+Settings.png "Design Settings")
 
@@ -27,18 +27,13 @@
 
    1. If you're using Reaction, chances are you know someone who has created a logo, even if you haven't yourself. Show it off! *(For instructions on how to add a logo, search for "logo" in the help menu).*   
    2. The "Admin Color" can be used to organize surveys in a visual way or, it could be a rare opportunity to choose your favorite color while you're getting paid for it. 
-   3. THERE WILL BE AN ADDITIONAL DESIGN SETTINGS PAGE TBD - DANNY, IGNORE.
+   3. "Include Verify Information Page?" adds a page to the survey that verifies demographic information of the participant. The best info is to go directly to the source. 
 
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Survey+custom+content+page.png)
 
 
 1. **Completion Page Custom Content** - So you have something you want to say to your participants? A "thank you" or a "now what?" fits perfectly here. (e.g. "Thank you for participating! As a 'thank you' we've shared your peers' responses to one of the questions here!" OR "If you have any additional questions please reach out to your account manager."
-2. **NPS Options** - DANNY, JUST PUT IN GIBBERISH HERE
+2. **NPS Options** - This will inject into your standard NPS question (e.g. "How likely are you to recommend {{subject_name}} to a friend or colleague?)
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!]()
-
-1. **Shared Visualization** -   It's not just you that is curious what your peers think! As an incentive, out of the goodness of your heart, for whatever reason, you're able to choose to share the results of a question (or two or three) with your participants. Just let your myprojects team know which data you'd like to share...
-2. Here is an example of where your **Completion Page Custom Content** will show up at the end of a survey. 
-DO WE MOVE THIS SCREENSHOT TO A DIFFERENT DOC? IF WE'RE GOING TO HAVE SHARED VIZ INVISIBLE TO ALL BUT SUPER ADMINS IT MIGHT FIT BETTER SOMEWHERE ELSE.
 
