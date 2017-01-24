@@ -3,7 +3,7 @@
 ---
 
 
-### Navigating A Report 
+## Navigating A Report 
 
 > Once you've finished creating your custom report, or clicked on an existing one, you'll be brought to your report landing page. You'll notice that a list of your report's questions, the **Table of Contents**, opens automatically for context the first time you open a report. In the background, you'll see a pre-configured dashboard based on the type of question. Let's dive in.
 
@@ -19,16 +19,15 @@ When you first open a report, a sidebar will open alongside it. This is a list o
 >  
 >  <center>![data monkey](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/data+monkey.jpg "data monkey")</center>
 
-![Preview Page w/o Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/reports+page+updated.png "This will be a screenshot of what a report page looks like WITHOUT the nav bar with the following annotations: Also add an overlay of the additional buttons you get after hitting the top left cog")
+![Preview Page w/o Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/reports+page+updated.png)
 
-ADD CURRENT QUESTION DESCRIPTION NUMBER TO THIS LIST
-1. Add a new visualization
-2. Name of current report page
-3. 	Name of Report
-4. List of report pages and additional options 
-5. Edit Dashboard Name or Destroy Dashboard
+1. Add a New Visualization (A representation of data you've chosen)
+2. Name of current Report Page (Default is Question Name)
+3. Name of Report (Default is Survey Name)
+4. List of Report Pages and additional options 
+5. Edit Dashboard Name (Default is Question Type) or Destroy Dashboard
 6. Current Dashboard Name
-7. Explore or download the data as it is currently presented
+7. Explore (dig deeper into the data) or download the data as it is currently presented
 
 ### Explore
 
@@ -36,14 +35,14 @@ ADD CURRENT QUESTION DESCRIPTION NUMBER TO THIS LIST
 
 ![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/report+explore.gif "This will be a screenshot of a visualization, explore button, and possibly the explore state in a pop out. A gif might be better here")
 
-#### Add New Visualization
+### Add New Visualization
 
 >  We're all about slicing and dicing here. Our office dinner specialty is Ratatouille, our office game is Fruit Ninja, and our office hobby is smithing Japanese katana. We put a lot of thought into the pre-configured question dashboards, but one size does not fit all and you may need something answered that our data monkey's magic 8-ball missed. Luckily, creating new visualizations is a snap.
 
 
 ![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/add+new+visualization.gif "This will be a GIF of the creation process of a new vis.")
 
-1. Click the **Dashboard Configuration** ADD THE ACTUAL BUTTON button
+1. Click the ![Dashboard Config Button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Dashboard+Config+Button.png "Dashboard Configuration Button")
 2. Click "Add New Visualization"
 3. Select your **Dimensions** and **Measures**. As you do so, each will be added to your **Data Results** in the bottom right as columns; *but these columns will not populate until you hit the **Run** button on the top right.* 
 * A **dimension** is a data field linked to the survey or the participant. These are listed by group. Here are some examples:
