@@ -27,7 +27,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 4. Manage Access Groups - Edit White and Blacklist users for certain reports.
 
 #### Add a new Reaction User
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png "This will be a gif of the process")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Settings-Add-a-new-reaction-user.gif)
 
 1. Add the **First Name**, **Last Name**, and **Email** of the new user.
 2. The org admin determines the password at time of user creation. The user can then edit their password at any time.
