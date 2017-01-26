@@ -7,7 +7,7 @@
 
 >You can always add and remove contacts to and from an audience; quite unlike the attendees of your family reunion.
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png "This will be a gif of the process to add and remove participants to and from a group")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/groups_details/Adding-Contacts-to-an-Audience.gif)
 
 
 ### Filtering Contacts
@@ -28,7 +28,7 @@
 
 Removing contacts from your audience is done in the same way. 
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.findinglaurie.com/wp-content/uploads/2016/05/Placeholder-400x200.png "This will be a gif of the process of filtering participants and adding them to a group")
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/groups_details/Filtering-an-Audience.gif)
 
 
 
