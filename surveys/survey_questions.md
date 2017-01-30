@@ -35,6 +35,7 @@
 7. Add your **choice values** (i.e. the displayed choices that a participant will choose from) by filling in the value field and adding any new values by clicking "add new value."
 8. Click the **Save Question** button.
 
+<a id="multiple_choice"></a>
 ### Some question types have additional options for customization:
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/3+Question+Options.png  "Survey Question Options")
