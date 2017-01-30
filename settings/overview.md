@@ -26,8 +26,6 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 3. Manage Reaction Users - Edit existing permissions, roles, and other user info
 4. Manage Access Groups - Edit White and Blacklist users for certain reports.
 
-<a id="test"></a>
-
 #### Add a new Reaction User
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Settings-Add-a-new-reaction-user.gif)
 
