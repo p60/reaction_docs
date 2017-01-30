@@ -32,7 +32,7 @@
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Survey+custom+content+page.png)
 
-
+<a id="completion_page_content"></a>
 1. **Completion Page Custom Content** - So you have something you want to say to your participants? A "thank you" or a "now what?" fits perfectly here. (e.g. "Thank you for participating! As a 'thank you' we've shared your peers' responses to one of the questions here!" OR "If you have any additional questions please reach out to your account manager."
 2. **NPS Options** - This will inject into your standard NPS question (e.g. "How likely are you to recommend {{subject_name}} to a friend or colleague?)
 
