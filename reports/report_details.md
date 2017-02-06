@@ -64,6 +64,9 @@ When you first open a report, a sidebar will open alongside it. This is a list o
 7. If everything looks good at this point, you can save the visualization by clicking the tahitan ocean blue **Save** button. (What you see is exactly what you get. If your filters section isn't collapsed, it won't be collapsed on your dashboard.)
 
 ### Congratulations! You just created a New Visualization!
+
+### Additional Notes
+Data contains location-based information from [OpenCage Data](https://geocoder.opencagedata.com/), which is made available here under the [Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/1.0/).
 	
 
 
