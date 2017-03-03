@@ -6,6 +6,7 @@
 
 > Whenever you're ready to open your survey to your participants **(Note: This is a requirement before scheduling emails)** come back to this page, click the ![hamburger menu](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png) in the top right, schedule, and follow the instructions! 
 
+<a id="configure_survey"></a>
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Configure+Survey.png "Configure Survey")
 
 **Configure Survey** - The devil is in the details.
@@ -16,6 +17,7 @@
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Participant+Invitation.png "Participant Invitation")
 
+<a id="participation_strategy"></a>
 **Participant Invitation** - How do you want your survey to be distributed? (We're working on the "by owl" option a la Harry Potter)
 
    1. "Is Trigger Based?" or — "if this happens, then do that" — will allow you to send a survey automatically when a case is closed in Salesforce.  *(For instructions on how to build triggers, search for "triggers overview" in the help menu).*
@@ -23,12 +25,14 @@
 
  ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Design+Settings.png "Design Settings")
 
+<a id="design_settings"></a>
 **Design Settings** - We don't want to distract from the research, but here's your chance to make things a teensy bit flashy.
 
    1. If you're using Reaction, chances are you know someone who has created a logo, even if you haven't yourself. Show it off! *(For instructions on how to add a logo, search for "logo" in the help menu).*   
    2. The "Admin Color" can be used to organize surveys in a visual way or, it could be a rare opportunity to choose your favorite color while you're getting paid for it. 
    3. "Include Verify Information Page?" adds a page to the survey that verifies demographic information of the participant. The best info is to go directly to the source. 
 
+<a id="supported_languages"></a>
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Survey+custom+content+page.png)
 
