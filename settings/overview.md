@@ -6,6 +6,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 >The important stuff that you hope to touch as infrequently as possible.
 
+<a id="organization_details"></a>
 ### Organization Details
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/organization%2Bdetails%2B-%2Bsettings.png)
@@ -17,6 +18,10 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 3. Time Zone 
 4. File Management - This is where you'll upload any logo(s) you might use for a survey. 
 
+<a id="file_management"></a>
+
+<a id="manage_users"></a>
+<a id="manage_access_groups"></a>
 ### Managing Users and Access Groups
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/manage%2Busers%2Band%2Bgroups%2B-%2Bsettings.png)
@@ -47,6 +52,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 1. Type in the name of the access group. Ex. Customer Research - Product A
 2. Type in and select the names of those users you want Whitelisted or Blacklisted. (If you are part of a group that is Blacklisted, you will not even see the report[s])
 
+<a id="email_configurations"></a>
 ### Email Configurations
 
 >Depending on your audience you may want to change who the email is coming from. **Email Configurations** allow you create a template to easily access the email address you'd like to send from, be replied to, and the individual's email signature. 
@@ -60,6 +66,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 4. Reply To Address - This is the email (not necessarily the same as "From") that all responses will go to. 
 5. Signature - Using HTML (peer60 can help with this), recreate the email signature of the sender. 
 
+<a id="email_display_settings"></a>
 ### Email Display Settings
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/email%2Bdisplay%2B-%2Bsettings.png)
@@ -67,6 +74,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 1. Survey Button Color - This allows you to pick the color of the Survey Button that you can choose to add to your emails.
 2. Email Start Survey Button Style - This allows you to pick the style of the Survey Button that you can choose to add to your emails.
 
+<a id="survey_display_settings"></a>
 ### Survey Display Settings
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/suvey%2Bdisplay%2B-%2Bsettings.png)
@@ -75,13 +83,17 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 2. Secondary Palette - This will be the secondary color in your surveys. 
 3. Survey Palettes - This is a preview of the color palette that will be used for your survey. 
 
-
-### Admin Display Settings & Supported Locales
+<a id="supported_languages"></a>
+<a id="enabled_dashboards"></a>
+### Enabled Dashboards and Supported Languages
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/admin+display+-+settings.png "This will be a screenshot of a the admin display and supported locales panel with the following annotations:")
 
 1. Admin display settings - This allows you to select what appears in your organization's dashboard. 
 2. Supported Locales - This allows you to duplicate questions and emails for different languages. (Speak with your peer60 Account Manager for details)
+
+<a id="export_data"></a>
+<a id="integrations"></a>
 
 ### Integrations
 
