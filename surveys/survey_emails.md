@@ -16,6 +16,7 @@ To create 1 of (up to) your 3 email sends:
 	* If you're unsatisfied with the results after one send, or just want to remind people, you'll use the **"Survey Reminder."**
 	* If you're still unsatisfied after 2 sends, you can send the **"Last Call"** to give your target audience one last chance to participate.
 
+<a id="email_configuration"></a>
 2. Select who you'd like it sent *from* by clicking the **"Email Configuration"** dropdown.  
 	* These are created in  "Settings" and are preconfigured combinations of the email address we want to send from, email address (if different) you'd like replies sent to, and an email signature; typically the same one the sender always uses in and out of Reaction. *For instructions on how to create a new Email Configuration, search for "settings" in the help menu).*
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_emails/2+email+creation+page+updated.png)
