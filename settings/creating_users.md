@@ -1,3 +1,0 @@
-## Creating Users
-
-todo: placeholder
