@@ -25,7 +25,7 @@ keywords: ['participant', 'participants', 'first name', 'last name', 'position',
 4. Click "Save Contact."
 5. Confirm that everything is correct as **only the contact will be able to update their information** and, if it is, click "Yes, create contact."
 
-
+<a id="importing_contacts"></a>
 ### Importing Contacts
 
 > Reaction uses .csv for uploading your list of contacts. For an example list and to ensure correct formatting, you can download an example .csv file by clicking ![Hamburger](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png) in the top right, then ![Upload](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/upload+icon.png), and finally ![Download Example CSV Button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/download+csv.png) .
