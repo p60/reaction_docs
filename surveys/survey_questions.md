@@ -19,8 +19,6 @@
 
 ### Adding a Question to Your Survey
 
-
-
 1. On the questions page, click **"Add Question"** in the center of the page or in ![Orange Hamburger Menu](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Orange+Hamburger.png).
 2. Select the **question type** you'd like from the list.
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/new+multiple+choice+many+question-01.png)
@@ -31,11 +29,11 @@
 
 5. If you'd like a different **reporting name** for this question, unlock the default by clicking the ![padlock](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Padlock.png) and add your new reporting name.  
 6. Add any **question tags**. Tags allow for marking a question with additional identifiers. These identifiers will "tag" the question so you can find the question (i.e. in a report) by either the question tag(s) *OR* the question itself. An example might be if I periodically ask "who is your preferred pizza delivery person" in various surveys. This would allow me to go back and track trends over time to see if Jimmy increases in popularity. This might prompt all new questions to help me determine the reasoning behind Jimmy's newfound popularity. 
+<a id="choices"></a>
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/mc+question+7+and+8-01.png)
 7. Add your **choice values** (i.e. the displayed choices that a participant will choose from) by filling in the value field and adding any new values by clicking "add new value."
 8. Click the **Save Question** button.
 
-<a id="multiple_choice"></a>
 ### Some question types have additional options for customization:
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/3+Question+Options.png  "Survey Question Options")
@@ -45,7 +43,7 @@ ADD ANNOTATIONS TO THE LARGER SCREENSHOT
 3. **Limit Selectable Answers** - keeps a participant from clicking every box in a "Multiple Choice Many" style question.
 
 
-
+<a id="conditions"></a>
 ### Manage Conditions
 >  If Question 1 is: "Do you like pizza?" and they respond with: "No" then we don't want Question 2 to be "What are your favorite toppings?" We would want it to be something more along the lines of: "Do you also dislike puppies and baby otters?" Sometimes, depending on responses, we don't want to ask every participant every question. This is the essence of conditions, to create a flowchart of questions based on responses. 
 
