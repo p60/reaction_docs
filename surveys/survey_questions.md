@@ -4,7 +4,7 @@
 
 ### Questions Tab
 
->I picture a survey without good *Questions* as a dinner party without dinner. You show up hungry expecting food and instead get a shpeel about your friend's new scented oil business that you should *totally* be a part of. Don't be that person. Feed your "friends" (with interesting and worthwhile questions) and make them happy they came. They might just show up for the next one — and the one after that. 
+>I picture a survey without good *Questions* as a dinner party without dinner. You show up hungry expecting food and instead get a spiel about your friend's new scented oil business that you should *totally* be a part of. Don't be that person. Feed your "friends" (with interesting and worthwhile questions) and make them happy they came. They might just show up for the next one — and the one after that. 
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_questions/Main+Questions+Page.png "This will be a screenshot of the Questions section with annotation of each section. Timer, Add Question, Hamburger Bar, Questions, Reorder Questions, Update Questions order - Main Questions Page WE NEED TO ADD A CONDITION ICON WITH DESCRIPTION")
 
