@@ -4,7 +4,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 # Surveys
 
-> **Surveys**, the means you use to do your primary research with Reaction, are located in the nav bar on the left. This is where you'll go to see all your ongoing and completed surveys, as well as create news ones. 
+> **Surveys**, the means you use to do your primary research with Reaction, are located in the nav bar on the left. This is where you'll go to see all your ongoing and completed surveys, as well as create new ones. 
 
 If you're a first timer in Reaction, or you want just want to get down to business, you'll want to get straight to the creation process and click the ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png "hamburger") and then ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Create+Icon.png "create new") in the top right corner of the **Surveys** page. This will give you the option to create one of two types of surveys:
 
