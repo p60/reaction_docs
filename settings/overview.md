@@ -54,9 +54,9 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 1. Type in the name of the access group. Ex. Customer Research - Product A
 2. Type in and select the names of those users you want Whitelisted or Blacklisted. (If you are part of a group that is Blacklisted, you will not even see the report[s])
 
+### Email Configurations
 <a id="manage_email_configurations"></a>
 <a id="manage_email_configuration"></a>
-### Email Configurations
 
 >Depending on your audience you may want to change who the email is coming from. **Email Configurations** allow you create a template to easily access the email address you'd like to send from, be replied to, and the individual's email signature. 
 
