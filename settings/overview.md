@@ -55,6 +55,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 2. Type in and select the names of those users you want Whitelisted or Blacklisted. (If you are part of a group that is Blacklisted, you will not even see the report[s])
 
 <a id="email_configurations"></a>
+<a id="email_configuration"></a>
 ### Email Configurations
 
 >Depending on your audience you may want to change who the email is coming from. **Email Configurations** allow you create a template to easily access the email address you'd like to send from, be replied to, and the individual's email signature. 
