@@ -6,7 +6,6 @@
 
 > Whenever you're ready to open your survey to your participants **(Note: This is a requirement before scheduling emails)** come back to this page, click the ![hamburger menu](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png) in the top right, schedule, and follow the instructions! 
 
-<a id="configure_survey"></a>
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Configure+Survey.png "Configure Survey")
 
 **Configure Survey** - The devil is in the details.
