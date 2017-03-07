@@ -11,14 +11,14 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/organization%2Bdetails%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
-1. Organization Display Name - We like flexibility, and not just at our company yoga retreats, o we want you to be able to swap your displayed (i.e. viewed by recipients) name at any time to fit your needs. Want to have a product or department name for a particular survey? No problem.
+1. **Organization Display Name** - We like flexibility, and not just at our company yoga retreats, o we want you to be able to swap your displayed (i.e. viewed by recipients) name at any time to fit your needs. Want to have a product or department name for a particular survey? No problem.
 
-2. Organization Name - When you don't use a logo your Organization name will appear in it's place.  (i.e. order of what survey participant sees: Logo, [if there is no logo] Organization Display Name, [if there is no Org. Display Name] Organization Name)
+2. **Organization Name** - When you don't use a logo your Organization name will appear in it's place.  (i.e. order of what survey participant sees: Logo, [if there is no logo] Organization Display Name, [if there is no Org. Display Name] Organization Name)
 
-3. Time Zone
+3. **Time Zone**
 <a id="file_management"></a>
 
-4. File Management - This is where you'll upload any logo(s) you might use for a survey. 
+4. **File Management** - This is where you'll upload any logo(s) you might use for a survey. 
 <a id="manage_images"></a>
 <a id="manage_users"></a>
 <a id="manage_user"></a>
@@ -28,12 +28,12 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/manage%2Busers%2Band%2Bgroups%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
-1. Add a new Reaction User
-2. Add a new Access Group (Access Groups are used to limit what data is visible to certain groups)
-3. Manage Reaction Users - Edit existing permissions, roles, and other user info
-4. Manage Access Groups - Edit White and Blacklist users for certain reports.
+1. **Add a new Reaction User**
+2. **Add a new Access Group** (Access Groups are used to limit what data is visible to certain groups)
+3. **Manage Reaction Users** - Edit existing permissions, roles, and other user info
+4. **Manage Access Groups** - Edit White and Blacklist users for certain reports.
 
-#### Add a new Reaction User
+#### Add a New Reaction User
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Settings-Add-a-new-reaction-user.gif)
 
 1. Add the **First Name**, **Last Name**, and **Email** of the new user.
@@ -61,28 +61,28 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Email+Configurations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
-1. Name (not shown to recipients) - This is the name of the configuration. Not necessarily the name of the person in the template. (i.e. you may have a email config name for anything going out relating to Product A)
-2. From Name - This IS the  name of the person the email should appear to be sent from.
-3. From Email + domain - the email username is anything before the @ symbol. peer60 adds any email domains you intend to send from. 
-4. Reply To Address - This is the email (not necessarily the same as "From") that all responses will go to. 
-5. Signature - Using HTML (peer60 can help with this), recreate the email signature of the sender. 
+1. **Name** (not shown to recipients) - This is the name of the configuration. Not necessarily the name of the person in the template. (i.e. you may have a email config name for anything going out relating to Product A)
+2. **From Name** - This IS the  name of the person the email should appear to be sent from.
+3. **From Email + domain** - the email username is anything before the @ symbol. The Reaction team adds any email domains you intend to send from. 
+4. **Reply To Address** - This is the email (not necessarily the same as "From") that all responses will go to. 
+5. **Signature** - Using HTML (The Reaction team can help with this), recreate the email signature of the sender. 
 
 <a id="email_display_settings"></a>
 ### Email Display Settings
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/email%2Bdisplay%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
-1. Survey Button Color - This allows you to pick the color of the Survey Button that you can choose to add to your emails.
-2. Email Start Survey Button Style - This allows you to pick the style of the Survey Button that you can choose to add to your emails.
+1. **Survey Button Color** - This allows you to pick the color of the Survey Button that you can choose to add to your emails.
+2. **Email Start Survey Button Style** - This allows you to pick the style of the Survey Button that you can choose to add to your emails.
 
 <a id="survey_display_settings"></a>
 ### Survey Display Settings
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/suvey%2Bdisplay%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
-1. Primary Palette - This will be the primary color in your surveys. (Remember you can preview your survey to make sure you like the look before sending)
-2. Secondary Palette - This will be the secondary color in your surveys. 
-3. Survey Palettes - This is a preview of the color palette that will be used for your survey. 
+1. **Primary Palette** - This will be the primary color in your surveys. (Remember you can preview your survey to make sure you like the look before sending)
+2. **Secondary Palette** - This will be the secondary color in your surveys. 
+3. **Survey Palettes** - This is a preview of the color palette that will be used for your survey. 
 
 <a id="supported_languages"></a>
 <a id="enabled_dashboards"></a>
@@ -90,8 +90,8 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/admin+display+-+settings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
-1. Admin display settings - This allows you to select what appears in your organization's dashboard. 
-2. Supported Locales - This allows you to duplicate questions and emails for different languages. (Speak with your peer60 Account Manager for details)
+1. **Admin display settings** - This allows you to select what appears in your organization's dashboard. 
+2. **Supported Locales** - This allows you to duplicate questions and emails for different languages. (Speak with your Reaction Account Manager for details)
 
 <a id="export_data"></a>
 <a id="integrations"></a>
