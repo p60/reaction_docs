@@ -21,7 +21,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 4. File Management - This is where you'll upload any logo(s) you might use for a survey. 
 <a id="manage_images"></a>
 <a id="manage_users"></a>
-<a id="manaeg_user"></a>
+<a id="manage_user"></a>
 <a id="manage_access_group"></a>
 <a id="manage_access_groups"></a>
 ### Managing Users and Access Groups
