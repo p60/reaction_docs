@@ -9,9 +9,9 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 <a id="organization_details"></a>
 ### Organization Details
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/organization%2Bdetails%2B-%2Bsettings.png)
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/organization%2Bdetails%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
-1. Organization Display Name - We like flexibility, and not just at our company yoga retreats. So we want you to be able to swap your displayed (i.e. viewed by recipients) name at any time to fit your needs. Want to have a product or department name for a particular survey? No problem.
+1. Organization Display Name - We like flexibility, and not just at our company yoga retreats, o we want you to be able to swap your displayed (i.e. viewed by recipients) name at any time to fit your needs. Want to have a product or department name for a particular survey? No problem.
 
 2. Organization Name - When you don't use a logo your Organization name will appear in it's place.  (i.e. order of what survey participant sees: Logo, [if there is no logo] Organization Display Name, [if there is no Org. Display Name] Organization Name)
 
@@ -26,7 +26,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 <a id="manage_access_groups"></a>
 ### Managing Users and Access Groups
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/manage%2Busers%2Band%2Bgroups%2B-%2Bsettings.png)
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/manage%2Busers%2Band%2Bgroups%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
 1. Add a new Reaction User
 2. Add a new Access Group (Access Groups are used to limit what data is visible to certain groups)
@@ -49,18 +49,17 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 >**Access Groups** allow you to create *groups* that are later granted *access* to the reports they need to see or blacklist them from the ones they don't. 
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Add+a+new+Access+Group.png)
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Add+a+new+Access+Group.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
 1. Type in the name of the access group. Ex. Customer Research - Product A
 2. Type in and select the names of those users you want Whitelisted or Blacklisted. (If you are part of a group that is Blacklisted, you will not even see the report[s])
 
-### Email Configurations<a id="manage_email_configurations"></a>
-<a id="manage_email_configuration"></a>
+<a id="email_configurations"></a>
+### Email Configurations
 
 >Depending on your audience you may want to change who the email is coming from. **Email Configurations** allow you create a template to easily access the email address you'd like to send from, be replied to, and the individual's email signature. 
 
-
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Email+Configurations.png)
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Email+Configurations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
 1. Name (not shown to recipients) - This is the name of the configuration. Not necessarily the name of the person in the template. (i.e. you may have a email config name for anything going out relating to Product A)
 2. From Name - This IS the  name of the person the email should appear to be sent from.
@@ -71,7 +70,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 <a id="email_display_settings"></a>
 ### Email Display Settings
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/email%2Bdisplay%2B-%2Bsettings.png)
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/email%2Bdisplay%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
 1. Survey Button Color - This allows you to pick the color of the Survey Button that you can choose to add to your emails.
 2. Email Start Survey Button Style - This allows you to pick the style of the Survey Button that you can choose to add to your emails.
@@ -79,7 +78,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 <a id="survey_display_settings"></a>
 ### Survey Display Settings
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/suvey%2Bdisplay%2B-%2Bsettings.png)
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/suvey%2Bdisplay%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
 1. Primary Palette - This will be the primary color in your surveys. (Remember you can preview your survey to make sure you like the look before sending)
 2. Secondary Palette - This will be the secondary color in your surveys. 
@@ -89,7 +88,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 <a id="enabled_dashboards"></a>
 ### Enabled Dashboards and Supported Languages
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/admin+display+-+settings.png "This will be a screenshot of a the admin display and supported locales panel with the following annotations:")
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/admin+display+-+settings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
 1. Admin display settings - This allows you to select what appears in your organization's dashboard. 
 2. Supported Locales - This allows you to duplicate questions and emails for different languages. (Speak with your peer60 Account Manager for details)
@@ -99,7 +98,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 ### Integrations
 
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Integrations.png)
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Integrations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
 This links your Salesforce account to Reaction to begin creating triggers.  
 
