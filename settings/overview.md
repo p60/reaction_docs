@@ -61,7 +61,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Email+Configurations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
-1. **Name** (not shown to recipients) - This is the name of the configuration. Not necessarily the name of the person in the template. (i.e. you may have a email config name for anything going out relating to Product A)
+1. **Name** (not shown to recipients) - This is the name of the configuration. Not necessarily the name of the person in the template. (e.g. "North East Region Account Executive")
 2. **From Name** - This IS the  name of the person the email should appear to be sent from.
 3. **From Email + domain** - the email username is anything before the @ symbol. The Reaction team adds any email domains you intend to send from. 
 4. **Reply To Address** - This is the email (not necessarily the same as "From") that all responses will go to. 
