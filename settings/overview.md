@@ -15,10 +15,10 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 
 2. Organization Name - When you don't use a logo your Organization name will appear in it's place.  (i.e. order of what survey participant sees: Logo, [if there is no logo] Organization Display Name, [if there is no Org. Display Name] Organization Name)
 
-3. Time Zone 
-4. File Management - This is where you'll upload any logo(s) you might use for a survey. 
-
+3. Time Zone
 <a id="file_management"></a>
+
+4. File Management - This is where you'll upload any logo(s) you might use for a survey. 
 
 <a id="manage_users"></a>
 <a id="manage_access_groups"></a>
