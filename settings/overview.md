@@ -88,7 +88,7 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 <a id="enabled_dashboards"></a>
 ### Enabled Dashboards and Supported Languages
 
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/admin+display+-+settings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/admin%2Bdisplay%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
 1. **Admin display settings** - This allows you to select what appears in your organization's dashboard. 
 2. **Supported Locales** - This allows you to duplicate questions and emails for different languages. (Speak with your Reaction Account Manager for details)
