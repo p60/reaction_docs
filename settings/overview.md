@@ -19,11 +19,22 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 <a id="file_management"></a>
 
 4. **File Management** - This is where you'll upload any logo(s) you might use for a survey. 
+
+
 <a id="manage_images"></a>
 <a id="manage_users"></a>
 <a id="manage_user"></a>
 <a id="manage_access_group"></a>
 <a id="manage_access_groups"></a>
+
+
+### File Management
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Manage+Images_Add+Images.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+
+1. **Upload Image** - 
+2. **Key** - 
+3. **Label** - 
+
 ### Managing Users and Access Groups
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/manage%2Busers%2Band%2Bgroups%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
@@ -58,6 +69,11 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 ### Email Configurations
 
 >Depending on your audience you may want to change who the email is coming from. **Email Configurations** allow you create a template to easily access the email address you'd like to send from, be replied to, and the individual's email signature. 
+
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Email+Configurations_Add+Edit.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+
+1. **Add New Email Configuration** - 
+2. **Edit Existing Email Configuration** - 
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Email+Configurations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
