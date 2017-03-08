@@ -108,8 +108,13 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 2. **Supported Locales** - This allows you to duplicate questions and emails for different languages. (Speak with your Reaction Account Manager for details)
 
 <a id="export_data"></a>
-<a id="integrations"></a>
+### Export Data
 
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/export+data.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+1. **Export All Answer Data** - 
+2. **Download/Destroy** 
+
+<a id="integrations"></a>
 ### Integrations
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Integrations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
