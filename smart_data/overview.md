@@ -14,21 +14,26 @@
 
 ### Custom SmartData Report
 
-If you choose to copy an existing report you'll be asked to 
+> If you choose to copy an existing report you'll be asked to create a name. 
 
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/copy+report+box.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="35%" height="35%">
 </center>
 
+> Whether you're creating a new custom report from scratch or from a copy you'll be brought to a configuration screen
+
 <center>
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Configure+Report.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Configure+Report.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="35%" height="35%">
 </center>
+
+1. **Name your Custom Report**
+2. 
 
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/configure+report+by+question.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 </center>
 
 <center>
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/configure+report+by+question.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/configure+report+by+question+type.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 </center>
 
