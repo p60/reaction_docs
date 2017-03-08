@@ -10,10 +10,10 @@ keywords: ['participant', 'participants', 'first name', 'last name', 'position',
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/participants_overview/contacts+overview+page.png "Contacts Page")
 
-1. Upload a list of contacts from .csv
-2. Add a new contact
-3. Search for an existing contact
-4. View an existing contact or flag it for incorrect attributes
+1. **Upload a list of contacts from .csv**
+2. **Add a new contact**
+3. **Search for an existing contact**
+4. **View an existing contact or flag it for incorrect attributes**
 
 ### Adding a New Contact
 
