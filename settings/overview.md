@@ -18,23 +18,21 @@ keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
 3. **Time Zone**
 <a id="file_management"></a>
 
-4. **File Management** - This is where you'll upload any logo(s) you might use for a survey. 
-
+4. **File Management** - This is where you keep your logos or any other images you might need to reference in an email or survey.
 
 <a id="manage_images"></a>
-<a id="manage_users"></a>
-<a id="manage_user"></a>
-<a id="manage_access_group"></a>
-<a id="manage_access_groups"></a>
-
-
 ### File Management
+
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/Manage+Images_Add+Images.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
 1. **Upload Image** - 
 2. **Key** - 
 3. **Label** - 
 
+<a id="manage_users"></a>
+<a id="manage_user"></a>
+<a id="manage_access_group"></a>
+<a id="manage_access_groups"></a>
 ### Managing Users and Access Groups
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/settings_overview/manage%2Busers%2Band%2Bgroups%2B-%2Bsettings.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
