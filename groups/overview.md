@@ -12,10 +12,10 @@
 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/groups_overview/Groups+Screenshot+1.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 
-1. Add new audience.
-2. Search for audience.
-3. View audience info.
-4. Edit/Add to existing audience 
+1. **Add new audience**
+2. **Search for audience**
+3. **View audience info**
+4. **Edit/Add to existing audience**
 
 ### Adding a New Audience
 
