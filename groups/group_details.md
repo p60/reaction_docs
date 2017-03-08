@@ -12,7 +12,9 @@
 
 ### Filtering Contacts
 
-> Imagine for a moment you could filter the attendees of your family reunion. (Don't get too caught up in this example, it's hypothetical). Maybe you only want the interesting ones, or the one's with good personal hygiene.  I know I like Aunt Margo's jokes and Uncle Buck's ribs. **Filtering Contacts** allows you to create a group that fits your specific needs.
+> Imagine for a moment you could filter the attendees of your family reunion. (Don't get too caught up in this example, it's hypothetical). Maybe you only want the interesting ones, or the one's with good personal hygiene.  I know I like Aunt Margo's jokes and Uncle Buck's ribs. 
+
+>**Filtering Contacts** allows you to create a group that fits your specific needs. We don't have "interesting" or "funny" as filter criteria quite yet but maybe someday.
 
 1. To begin filtering out contacts for your audience click the ![Search Button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Search+Icon.png)
 2. Choose the criteria you want for this audience by using the dropdowns (e.g. If you'd like to add every contact with the title of "CEO" you would 
