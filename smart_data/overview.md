@@ -58,7 +58,7 @@
 </center>
 
 <center>
-<img src="hhttps://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Test+Documentation.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="100%" height="100%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Test+Documentation.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="100%" height="100%">
 </center>
 
 
