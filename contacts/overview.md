@@ -1,10 +1,10 @@
 ---
-keywords: ['participant', 'participants', 'first name', 'last name', 'position', 'company', 'seniority', 'role']
+keywords: ['contact', 'contact', 'first name', 'last name', 'position', 'company', 'seniority', 'role']
 ---
 
 # Contacts
 
-> Note: Due to the sensitive nature of the peer60 community, as of 11/11/2016 peer60 will still be compiling the list of participants by title or other criteria you'd like to reach out to. 
+> Note: Due to the sensitive nature of the peer60 community, as of 11/11/2016 peer60 will still be compiling the list of participants by title or other criteria you'd like to reach out to.
 
 **Contacts** houses all of the individuals you can send a survey to (excluding the peer60 community). Whenever you create a survey you have the option to add a page that allows a participant to verify key information including: Name, Company Name, Position Name, and Postal Code. This ensures participant data.
 
@@ -35,9 +35,9 @@ keywords: ['participant', 'participants', 'first name', 'last name', 'position',
 1. Click the ![Hamburger](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png)
 2. Click the ![Upload](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/upload+icon.png)
 3. Drop your list or click anywhere in the "Drop List Here" panel and select the correct file.
-4. Confirm that all of the data from the import looks correct. By default, all contacts are selected. 
+4. Confirm that all of the data from the import looks correct. By default, all contacts are selected.
 5. Click the ![Orange Save Button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Save+Contacts.png "Save Button"). If any of your records have incompatible data in each respective field you will get an ![Status Error Icon](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Upload+Status+Errors.png) instead of a ![Complete Status Icon](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Upload+Status+Good.png). Hovering over that status will give the error details or you can download the results by clicking ![Orange Download Button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Download+Contacts.png)
 
 ### Searching Participants
 
-Should you need to search for a participant to confirm they're in your Participant database or verify their information, simply click on the ![Search Button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Search+Icon.png) and select the criteria by which you'd like to search. 
+Should you need to search for a participant to confirm they're in your Participant database or verify their information, simply click on the ![Search Button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Search+Icon.png) and select the criteria by which you'd like to search.
