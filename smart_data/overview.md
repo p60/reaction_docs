@@ -16,8 +16,10 @@
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/SmartData+Library.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 </center>
 
-1. **Create a custom report with SmartData you're subscribed to**
-2. **View and explore an existing SmartData report**
+#### From the SmartData Home Page you can do 1 of 3 things:
+
+1. **Create a custom report from scratch using any raw SmartData you're subscribed to**
+2. **View and explore an existing SmartData report as it was created by the Reaction SmartData Team**
 3. **Copy an existing SmartData report for a common starting point before customizing**
 
 
@@ -28,7 +30,7 @@
 > If you choose to copy an existing report you'll be asked to create a name and then you'll be brought to the report. If you'd like to 
 
 <center>
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/copy+report+box.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="35%" height="35%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Copying+a+Report.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="35%" height="35%">
 </center>
 
 ### Creating a New SmartData Report
