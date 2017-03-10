@@ -6,6 +6,8 @@
 
 > SmartData is market data acquired using the Reaction Platform by us, the Reaction team. To save you from having to take the time and effort duplicating our research we've compiled the data in ways we believe will help answer many of your questions. Sure, we charge you for access, but imagine having to do all of this yourself! Now instead of starting on the opposing goalline, you're 40, 60, or 80 yards closer to your goal with minimal effort. Heck, you might even score just by opening up SmartData. <a href="https://www.reactiondata.com/suppliers/smartdata/#" target="_blank">Here</a> is a more in-depth rundown of SmartData.
 
+## SmartData is compiled into reports
+
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Reports+and+SmartData+Overview.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="100%" height="100%">
 </center>
@@ -18,9 +20,9 @@
 
 #### From the SmartData Home Page you can access data in 1 of 3 ways:
 
-1. **Create New Report** - Create a custom report from scratch using any raw SmartData you're subscribed to
-2. **View a Report** - View and explore an existing SmartData report as it was created by the Reaction SmartData Team
-3. **Copy a Report** -  Copy an existing SmartData report for a common starting point before customizing
+1. **Create New Report** - Create a custom report from scratch pulling in any raw SmartData you're subscribed to. Do so by clicking the <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Create+Icon.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="3%" height="3%">
+2. **View a Report** - View and explore an existing SmartData report as it was created by the Reaction SmartData Team by clicking on the tile
+3. **Copy a Report** -  Copy an existing SmartData report for a common starting point before customizing (i.e. add and/or removing data, pages, and visualizations to fit your needs)
 
 
 
