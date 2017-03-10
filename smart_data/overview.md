@@ -28,9 +28,9 @@
 
 
 
-### Custom SmartData Reports
+## Creating Custom SmartData Reports
 
-#### Copying a SmartData Report
+### Copying a SmartData Report
 > Maybe you want to tweak the pages and visualizations of an existing report. Maybe the Reaction Team didn't do it as well as you can (you cheeky bugger). Copying an existing SmartData Report will give you a jumpstart in getting you where you want to be. 
 
 <center>
@@ -41,7 +41,7 @@
 2. **Report Name** - Give this copied report a name (You can change this later).
 3. **Configure Report** - A copied report gives you a starting point identical to it's parent report. Configuring the report allows you to truly make it custom by adding and removing pages and visualizations.
 
-### Creating and Configuring a New or Copied Report
+### Creating a New SmartData Report
 
 > Whether you're starting from scratch with a brand new SmartData Report or you've chosen to copy an existing SmartData Report for a jumpstart, you'll very quickly get to the configuration stage. This is where you'll add pages to the report and visualizations to your pages. 
 
@@ -51,7 +51,10 @@
 
 1. **Name your Custom Report**
 2. **Restrict Access To** - this allows you to limit who can see this report to members of groups you've created in Settings.
-3. **Pages in your report** - You can add, copy, and delete pages in your report and see them listed here. 
+3. **Pages in your report** - You can add, copy, and delete pages in your report and see them listed here. (**Configuring a Report** will go into more details on this)
+
+
+## Configuring a SmartData Report
 
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/configure+report+by+question.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
