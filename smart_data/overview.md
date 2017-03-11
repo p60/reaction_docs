@@ -6,9 +6,9 @@
 
 > SmartData is market data acquired using the Reaction Platform by us, the Reaction team. To save you from having to take the time and effort duplicating our research we've compiled the data in ways we believe will help answer many of your questions. Sure, we charge you for access, but imagine having to do all of this yourself! I also need $ for a new bike. 
 
-> With SmartData, instead of starting on the opposing goalline, you're 40, 60, or 80 yards closer to your goal with minimal effort. Heck, you might even make it to th end zone just by opening up SmartData. <a href="https://www.reactiondata.com/suppliers/smartdata/#" target="_blank">Here</a> is a more in-depth rundown of SmartData and what it can do for you.
+> With SmartData, instead of starting on the opposing goal line, you're 40, 60, or 80 yards closer to your goal with minimal effort. Heck, you might even make it to the end zone just by opening up SmartData. <a href="https://www.reactiondata.com/suppliers/smartdata/#" target="_blank">Here</a> is a more in-depth rundown of SmartData and what it can do for you.
 
-## SmartData is compiled into reports
+## SmartData is Compiled into Reports
 
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Reports+and+SmartData+Overview.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="100%" height="100%">
@@ -39,11 +39,14 @@
 
 1. **Copy Button** - Copy the report that fits your needs by clicking the copy button.
 2. **Report Name** - Give this copied report a name (You can change this later).
-3. **Configure Report** - A copied report gives you a starting point identical to it's parent report. Configuring the report allows you to truly make it custom by adding and removing pages and visualizations.
+3. **Configure Report** - A copied report gives you a starting point identical to it's parent report. Configuring the report allows you to truly make it custom by adding and removing pages and visualizations. There's a section just on configuration below.
 
 ### Creating a New SmartData Report
 
-> Whether you're starting from scratch with a brand new SmartData Report or you've chosen to copy an existing SmartData Report for a jumpstart, you'll very quickly get to the configuration stage. This is where you'll add pages to the report and visualizations to your pages. 
+> Before you start creating SmartData Reports from scratch you'll want to be familiar with the data available to you.  
+><center>
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/dont_get_cocky.gif">
+</center>
 
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Config+Report.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
