@@ -17,7 +17,7 @@
 ## Accessing SmartData
 
 <center>
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/SmartData+Library.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/SmartData+Library.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="55%" height="55%">
 </center>
 
 #### From the SmartData Home Page you can access data in 1 of 3 ways:
@@ -37,9 +37,9 @@
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Copying+a+Report.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="115%" height="115%">
 </center>
 
-1. **Copy Button** - Copy the report that fits your needs by clicking the copy button.
-2. **Report Name** - Give this copied report a name (You can change this later).
-3. **Configure Report** - A copied report gives you a starting point identical to it's parent report. Configuring the report allows you to truly make it custom by adding and removing pages and visualizations. There's a section just on configuration below.
+1. **Copy The Report** - Copy the report that fits your needs by clicking the copy button.
+2. **Name Your Report** - Give this copied report a name (You can change this later).
+3. **Configure Your Report** - A copied report gives you a starting point identical to it's parent report. Configuring the report allows you to truly make it custom by adding and removing pages and visualizations. There's a section just on configuration below.
 
 ### Creating a New SmartData Report
 
