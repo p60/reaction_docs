@@ -39,7 +39,7 @@
 
 1. **Copy The Report** - Copy the report that fits your needs by clicking the copy button.
 2. **Name Your Report** - Give this copied report a name (You can change this later).
-3. **Configure Your Report** - A copied report gives you a starting point identical to it's parent report. Configuring the report allows you to truly make it custom by adding and removing pages and visualizations. There's a section just on configuration below.
+3. **Configure Your Report** - A copied report gives you a starting point identical to it's parent report. Configuring the report allows you to truly make it custom by adding and removing pages and visualizations. (The **Configuring a Report** section will go into more details on this)
 
 ### Creating a New SmartData Report
 
@@ -54,7 +54,7 @@
 
 1. **Name your Custom Report**
 2. **Restrict Access To** - this allows you to limit who can see this report to members of groups you've created in Settings.
-3. **Pages in your report** - You can add, copy, and delete pages in your report and see them listed here. (**Configuring a Report** will go into more details on this)
+3. **Pages in your report** - You can add, copy, and delete pages in your report and see them listed here. (The **Configuring a Report** section will go into more details on this)
 
 
 ## Configuring a SmartData Report
