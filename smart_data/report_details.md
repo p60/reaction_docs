@@ -29,3 +29,11 @@
 > On those occassions where you feel like the answers to your questions are hidden in the raw data and our monkeys haven't been able to sufficiently read your mind, let your Account Manager know. He/She will walk you through some options on how to proceed.
 
 	
+<center>
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/smartdata_pages_navigation.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="70%" height="70%">
+</center>
+
+
+<center>
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/changing_visualizations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="80%" height="80%">
+</center>
