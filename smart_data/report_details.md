@@ -29,5 +29,7 @@
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/smartdata_pages_navigation.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="70%" height="70%">
 </center>
 
-
+<center>
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/changing_visualizations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="70%" height="70%">
+</center>
 
