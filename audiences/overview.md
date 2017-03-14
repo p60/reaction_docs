@@ -17,7 +17,7 @@
 1. **Add new audience**
 2. **Search for audience**
 3. **View audience info**
-4. **Edit/Add to existing audience**
+4. **Edit an existing audience**
 
 ### Adding a New Audience
 <center>
