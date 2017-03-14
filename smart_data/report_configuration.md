@@ -12,7 +12,7 @@
 
 ### Adding Pages and Visualizations By Question
 
-> When you add a page by question, the data is already bla bla bla
+> When you add a page by question, our system tries to save you some work and automatically creates a serieis of 
 
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Configure+Report+by+Question.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
@@ -21,7 +21,7 @@
 
 ### Adding Pages and Visualizations By Question Type
 <center>
-<img src="PLACEHOLDER" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Configure+Report+by+Question+Type.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 </center>
 
 
