@@ -7,7 +7,7 @@
 > Bla bla bla
 
 <center>
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Raw+Data+to+Visualizations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="85%" height="85%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Raw+Data+to+Visualizations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="65%" height="65%">
 </center>
 
 ### Adding Pages and Visualizations By Question
