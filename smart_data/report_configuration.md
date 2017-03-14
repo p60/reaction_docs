@@ -15,7 +15,7 @@
 > When you add a page by question, the data is already bla bla bla
 
 <center>
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/configure+report+by+question.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Configure+Report+by+Question.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 </center>
 
 
