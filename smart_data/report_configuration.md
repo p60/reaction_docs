@@ -4,9 +4,9 @@
 
 # Configuring a SmartData Report
 
-> A fully configured report consists of one or many pages, and pages of one or many visualizations. The Reaction Team has configured many SmartData Reports like the one below. Use it as an example of what not to do (just kidding).
+> A fully configured report consists of one or many pages, and pages of one or many visualizations. The Reaction Team has configured many SmartData Reports like the one below. Use it as an example of what not to do (just kidding, we do this a lot).
 >
->Similar to how you can copy an entire report to get a good starting point, you'll also notice below that you can do the same with pages and visualizations.
+>Similar to how you can copy an entire report to get a good starting point, you'll also notice below that you can do the same with pages and visualizations. This can also save you some work and give you more time for sudoku.
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Fully+Configured+Report.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 </center>
@@ -14,7 +14,9 @@
 
 ### Adding Pages and Visualizations By Question
 
-> When you add a page by question, our system tries to save you some work and automatically creates a series of visualizations for that question using our default question dashboard. 
+> Adding a page by question will do a few things for you: it will automatically add the default dashboard (a group of visualizations) for the type of question your question is (e.g. multiple choice, ranking, etc), it will automatically filter all additional visualizations you add by the question's unique id, and it will name the page by the question (i.e. page name = question name)
+>
+> NOTE: Adding by a specific question will always be more limiting than adding by a question type as you're automatically filtering out all other questions. This means no combining similar questions, their results, etc.
 
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Configure+Report+by+Question.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
@@ -22,6 +24,9 @@
 
 
 ### Adding Pages and Visualizations By Question Type
+
+> 
+
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Configure+Report+by+Question+Type.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 </center>
