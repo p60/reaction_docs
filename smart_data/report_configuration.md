@@ -12,9 +12,9 @@
 </center>
 
 
-### Adding Pages and Visualizations By Question
+### Adding Pages By Question
 
-> Adding a page by question will do a few things for you: it will automatically add the default dashboard (a group of visualizations) for the type of question your question is (e.g. multiple choice, ranking, etc), it will automatically filter all additional visualizations you add by the question's unique id, and it will name the page by the question (i.e. page name = question name)
+> Adding a page by question will do a few things for you: **it will automatically add the default dashboard as a visualization** (a group of visualizations) for the type of question your question is (e.g. multiple choice, ranking, etc), it will automatically filter all additional visualizations you add by the question's unique id, and it will name the page by the question (i.e. page name = question name)
 >
 > NOTE: Adding by a specific question will always be more limiting than adding by a question type as you're automatically filtering out all other questions. This means no combining similar questions, their results, etc.
 
@@ -23,7 +23,7 @@
 </center>
 
 
-### Adding Pages and Visualizations By Question Type
+### Adding Pages By Question Type
 
 > 
 
