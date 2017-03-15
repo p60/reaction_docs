@@ -25,8 +25,9 @@
 
 ### Adding Pages By Question Type
 
-> 
-
+> **This is your visualization blank slate.** It really doesn't matter what Question Type you select here as you can easily change it in the bottom right of the New Visualization screen. With a blank slate you can pull from any survey, question, participant demographic(de-identified), etc. that Reaction has ever done*.
+>
+> *That you're subscribed to (you should definitely subscribe to all of it. I need $ to walk the path to Mordor in New Zealand)
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/Configure+Report+by+Question+Type.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
 </center>
