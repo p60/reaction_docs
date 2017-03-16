@@ -35,6 +35,6 @@ Always at the top right corner of any page is your <img src="https://s3.amazonaw
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/changing_visualizations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="70%" height="70%">
 </center>
 
-You can quickly change the way you visualize your data by selecting different charts and graphs available to you. You'll notice an example of when certain charts and graphs aren't available to you depending on the data you're trying to visualize.
+You can quickly change the way you visualize your data by **selecting different charts and graphs** available to you. You'll notice an example of when certain charts and graphs aren't available to you depending on the data you're trying to visualize.
 
 
