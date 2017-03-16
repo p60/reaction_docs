@@ -29,10 +29,12 @@
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/smartdata_pages_navigation.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="70%" height="70%">
 </center>
 
-ADD DESCRIPTION HERE
+Always at the top right corner of any page is your <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="2%" height="2%">. This pulls up your list of available pages as well as additional options housed in the <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/3+dot+menu+button.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="2%" height="2%"> 	
 
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/smart_data_overview/changing_visualizations.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="70%" height="70%">
 </center>
 
-AND HERE
+You can quickly change the way you visualize your data by selecting different charts and graphs available to you. You'll notice an example of when certain charts and graphs aren't available to you depending on the data you're trying to visualize.
+
+
