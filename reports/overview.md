@@ -1,18 +1,21 @@
 ---
-  keywords: ['report', 'reports', 'responses', 'custom', 'survey']
+  keywords: ['report', 'reports', 'responses', 'custom', 'survey', 'results']
 ---
 
 
-# Reports
+# Results & Reports
 
-> You've created a survey and sent it out to whom you believe to be the perfect audience. Now what? Sometimes, what you're looking for is right on the surface and a simple auto-generated bar chart of responses is all you'll need. Other times, you need to utilize different tools to dig deeper, slice and dice, filter, add or remove fields, etc. Reporting in Reaction allows you to do all these things and more. 
+> You've created a survey and sent it out to whom you believe to be the perfect audience. Now what? **Results** houses auto generated reports for each survey. These default reports will provide basic views of all the data coming in from the corresponding survey. 
+>
+> Sometimes, what you're looking for is right on the surface and a simple auto-generated bar chart of responses is all you'll need. Other times, you need to utilize different tools to dig deeper, slice and dice, filter, add or remove fields, etc. You're also able to build cusom reports using any and all of the data you've accumulated using Reaction.
 
 ### Reports Catalog
 
 Similar to the Surveys Catalog, all of your reports are housed here. Each time you open a created survey a report will automatically be generated here with the same name. You can customize those reports as well as create a **custom report** with any question from any survey from scratch. 
 
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_overview/report+card+resized.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="50%" height="50%">
-
+<center>
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_overview/report+card+resized.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="30%" height="30%">
+</center>
 
 ### Viewing Reports
 To view or explore your report, simply click on the colored tile WHY THE PENCIL?.  If you've been so busy doing research that you don't see the report you're looking for, you can **search** by *"Name"* or by *"Question."*  Once you've found it, just click the tile. 
