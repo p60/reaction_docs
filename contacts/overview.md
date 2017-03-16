@@ -4,11 +4,11 @@ keywords: ['contact', 'contact', 'first name', 'last name', 'position', 'company
 
 # Contacts
 
-> Note: Due to the sensitive nature of the peer60 community, as of 11/11/2016 peer60 will still be compiling the list of participants by title or other criteria you'd like to reach out to.
+**Contacts** houses all of the individuals you can send a survey to. Whenever you create a survey you have the option to add a page that allows a participant to verify key information including: Name, Company Name, Position Name, and Postal Code. This ensures participant data.
 
-**Contacts** houses all of the individuals you can send a survey to (excluding the peer60 community). Whenever you create a survey you have the option to add a page that allows a participant to verify key information including: Name, Company Name, Position Name, and Postal Code. This ensures participant data.
-
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/participants_overview/contacts+overview+page.png "Contacts Page")
+<center>
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/participants_overview/contacts+overview+page.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="75%" height="75%">
+</center>
 
 1. **Upload a list of contacts from .csv**
 2. **Add a new contact**
