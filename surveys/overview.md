@@ -14,7 +14,7 @@ If you're a first timer in Reaction, or you want just want to get down to busine
 If you have any existing surveys, whether they're still being worked on ("Draft"), ongoing ("Open"), or completed ("Closed"), you can search for them by scrolling through or searching by *"Name," "Kind," "Status,"* or *"Tagged With."* They'll be the colorful tiles like you see here: 
 
 <center>
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_overview/survey+title.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="440" height="550">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_overview/survey+title.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="30%" height="30%">
 </center>
 
 
