@@ -47,8 +47,7 @@ When you first open a report, a sidebar will open alongside it. This is a list o
 
 ![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/add+new+visualization.gif "This will be a GIF of the creation process of a new vis.")
 
-1. Click the
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Dashboard+Config+Button.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="10%" height="10%">
+1. Click the <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Dashboard+Config+Button.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="2%" height="2%">
 
 2. Click "Add New Visualization"
 3. Select your **Dimensions** and **Measures**. As you do so, each will be added to your **Data Results** in the bottom right as columns; *but these columns will not populate until you hit the **Run** button on the top right.* 
