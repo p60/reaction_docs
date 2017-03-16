@@ -9,7 +9,9 @@
 
 ### Table of Contents
 
-![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/Reports+Table+of+Contents.png)
+<center>
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/Reports+Table+of+Contents.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="70%" height="70%">
+</center>
 
 When you first open a report, a sidebar will open alongside it. This is a list of all of the pages of your report. You can open these pages by clicking on them, configure the report, or export the entire report to PDF from this side menu.
 
@@ -19,7 +21,9 @@ When you first open a report, a sidebar will open alongside it. This is a list o
 >  
 >  <center>![data monkey](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/data+monkey.jpg "data monkey")</center>
 
-![Preview Page w/o Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/reports+page+updated.png)
+<center>
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/reports+page+updated.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="70%" height="70%">
+</center>
 
 1. Add a New Visualization (A representation of data you've chosen)
 2. Name of current Report Page (Default is Question Name)
@@ -33,6 +37,7 @@ When you first open a report, a sidebar will open alongside it. This is a list o
 
 > **Explore** is an option available to you on each visualization.  It allows you to drill down from the current data point(s) you see in the visualization. *(Important: you cannot save the changes you make in explore from a pre-configured question dashboard, however this feature is possible by creating a **New Visualization**.)*
 
+
 ![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/report+explore.gif "This will be a screenshot of a visualization, explore button, and possibly the explore state in a pop out. A gif might be better here")
 
 ### Add New Visualization
@@ -42,7 +47,9 @@ When you first open a report, a sidebar will open alongside it. This is a list o
 
 ![Preview Page Nav Bar](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/reports_details/add+new+visualization.gif "This will be a GIF of the creation process of a new vis.")
 
-1. Click the ![Dashboard Config Button](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Dashboard+Config+Button.png "Dashboard Configuration Button")
+1. Click the
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Dashboard+Config+Button.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="10%" height="10%">
+
 2. Click "Add New Visualization"
 3. Select your **Dimensions** and **Measures**. As you do so, each will be added to your **Data Results** in the bottom right as columns; *but these columns will not populate until you hit the **Run** button on the top right.* 
 * A **dimension** is a data field linked to the survey or the participant. These are listed by group. Here are some examples:
