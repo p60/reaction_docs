@@ -18,7 +18,7 @@ Similar to the Surveys Catalog, all of your reports are housed here. Each time y
 </center>
 
 ### Viewing Reports
-To view or explore your report, simply click on the colored tile WHY THE PENCIL?.  If you've been so busy doing research that you don't see the report you're looking for, you can **search** by *"Name"* or by *"Question."*  Once you've found it, just click the tile. 
+To view or explore your report, simply click on the colored tile.  If you've been so busy doing research that you don't see the report you're looking for, you can **search** by *"Name"* or by *"Question."*  Once you've found it, just click the tile. 
 
 ### Configuring Reports	
 So, a survey triggered the creation of an accompanying report and you want to tweak it?  Find the report and click the cog. This will allow you to adjust the order of the questions, remove questions, or add questions to suit your needs
