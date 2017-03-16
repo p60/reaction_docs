@@ -10,8 +10,8 @@
 ![gif of above process](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/knowledgebase/help-button.gif)
 </center>
 
-**Option 2**: ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Help.png "Help Icon") is found in various places throughout the platform. Often it will take you right to the help you're looking for. 
+**Option 2**: <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Help.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="3%" height="3%">  is found in various places throughout the platform. Often it will take you right to the help you're looking for. 
 
-**Option 3**: Sometimes the help icon <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Help.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="2%" height="2%"> is nested within a menu <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="2%" height="2%">.
+**Option 3**: Sometimes the help icon <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Help.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="3%" height="3%"> is nested within a menu <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="2%" height="2%">.
 
 
