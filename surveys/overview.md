@@ -17,15 +17,15 @@ If you have existing surveys, they'll be represented by colorful tiles like the 
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_overview/survey+title.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="30%" height="30%">
 </center>
 
-1. Survey Status:
+1. **Survey Status:**
  * Draft - Currently being worked on
  * Open - Process has started to distribute the survey
  * Closed - You're no longer seeking out new data
-2. Title of Survey (not visible to participants)
-3. Survey Type
-4. Survey Creation Date
-5. Link to Surey Results
-6. Survey Info
+2. **Title of Survey (not visible to participants)**
+3. **Survey Type**
+4. **Survey Creation Date**
+5. **Link to Surey Results**
+6. **Survey Info**
 
 
 
