@@ -10,12 +10,22 @@ If you're a first timer in Reaction, or you want just want to get down to busine
 
   * **NPS** is a classic Net Promoter Score Survey, with pre-generated questions to assure consistency (though additional questions are still an option).
   * **Freeform** is for anything and everything else. 
- 
-If you have any existing surveys, whether they're still being worked on ("Draft"), ongoing ("Open"), or completed ("Closed"), you can search for them by scrolling through or searching by *"Name," "Kind," "Status,"* or *"Tagged With."* They'll be the colorful tiles like you see here: 
+
+If you have existing surveys, they'll be represented by colorful tiles like the one you see here: 
 
 <center>
 <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_overview/survey+title.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="30%" height="30%">
 </center>
+
+1. Survey Status:
+ * Draft - Currently being worked on
+ * Open - Process has started to distribute the survey
+ * Closed - You're no longer seeking out new data
+2. Title of Survey (not visible to participants)
+3. Survey Type
+4. Survey Creation Date
+5. Link to Surey Results
+6. Survey Info
 
 
 
