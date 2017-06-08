@@ -21,6 +21,7 @@
 
    1. "Is Trigger Based?" or — "if this happens, then do that" — will allow you to send a survey automatically when a case is closed in Salesforce.  *(For instructions on how to build triggers, search for "triggers overview" in the help menu).*
    2.  The "Audience" dropdown will be where you select the pre-configured audience you want to reach. *(For instructions on how to build an audience, search for "audience overview" in the help menu).*. 
+   3. "Contact Registration" gives you a URL to distribute however you'd like (e.g. QR code, Tweet, Facebook, Email, etc.). The URL directs the recipient to a page where they'll register (Name, Email, Company, Position) and then participate in the survey.  
 
  ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Design+Settings.png "Design Settings")
 
