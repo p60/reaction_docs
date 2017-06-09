@@ -20,17 +20,22 @@ To create 1 of (up to) 3 email sends:
 2. **"Email Configuration"** - These are created in **Settings** and are a pre-configured combination of the email address we want to send from, email address (if different) you'd like replies sent to, and an email signature (HTML supported).
 	
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_emails/2+email+creation+page+updated.png)
+
 3. Add your Email **Subject**.
+
 4. Add your Email **Body** while utilizing the **Insert Variable** tool. This allows you to add participant attributes (e.g. Dear "Participant First Name") and various ways to link the survey (e.g. Survey Link or Begin Survey Link Button).
+
 5. **Preview** your email by clicking the![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/preview+email.png "preview email") and sending it to whomever needs to sign off on it. This is exactly as it will appear to recipients and is meant for you to note any necessary changes needed before scheduling the official send. 
-   *  Should you decide that one of your email drafts doesn't need to be sent or if you just want to start from scratch you can **"Delete"** the email by clicking ![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/delete+email.png "delete email") on the bottom. (Note: once an email is scheduled you will not be able to delete it here. You will, however, be able to cancel any pending messages on the Deliveries page)
    
- >POINT OF NO RETURN. When you're survey and email is ready to be delivered, if you haven't done so already, **go back to the Survey Details tab** and click ![hamburger menu](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Hamburger+Nest+Icon.png) in the top right and open your survey. Your survey needs to be Open for emails to be scheduled. Keep in mind, <span style="color:red">once your Survey is Open, you can no longer add or reorder questions or conditions.</span>.    
+ >POINT OF NO RETURN. When you're survey and email is ready to be delivered, if you haven't done so already, **go back to the Survey Details tab** and click "Open Survey." (Your survey needs to be Open for emails to be scheduled). Keep in mind, <span style="color:red">once your Survey is Open, you can no longer add or reorder questions or conditions.</span>.    
    
 6. Click **"Delivery Actions"** and **"Create Deliveries"**
+
 7. Click **"Delivery Actions"** again and select **"Schedule Created Deliveries."**
-	* **To send it immediately** (you procrastinator, you), you will toggle the "Schedule Delivery Time" off, read the dialogue letting you know that this is the point of no return as we can't unsend emails, click the "Ready" box, and "Deliver Email Messages."
-	* **To schedule a future send**, toggle the "Schedule Delivery Time" on, select the date and time you'd like this email to be sent out, click the "I confirm that the delivery times listed above are correct" box, and "Schedule email messages for delivery." **(Scheduled email messages can be cancelled in the Deliveries tab)**
+	* **To Send Immediately** (you procrastinator, you), you will toggle the "Schedule Delivery Time" off, read the dialogue letting you know that this is the point of no return as we can't unsend emails, click the "Ready" box, and "Deliver Email Messages."
+	* **To Schedule For a Future Date**, toggle the "Schedule Delivery Time" on, select the date and time you'd like this email to be sent out, click the "I confirm that the delivery times listed above are correct" box, and "Schedule email messages for delivery." **(Scheduled email messages can be cancelled in the Deliveries tab)**
 
 
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/build+email.gif "This will be a gif of the above emailing process. WE WILL NEED A NEW GIF WITH TREVOR'S IMPROVEMENTS WHERE THINGS STAY PUT")
+
+*  Should you decide that one of your email drafts doesn't need to be sent or if you just want to start from scratch you can **"Delete"** the email by clicking ![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/delete+email.png "delete email") on the bottom. (Note: once an email is scheduled you will not be able to delete it here. You will, however, be able to cancel any pending messages on the Deliveries page)
