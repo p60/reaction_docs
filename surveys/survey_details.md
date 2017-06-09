@@ -14,18 +14,18 @@
    2.  Don't pester people with questions without a good reason! What are your goals? **What are you trying to learn from the results of your survey?** What is the meaning of the universe? Knowing what direction you need to go will help as you develop questions and compose emails. Also keep in mind, you, or someone else entirely, could be coming back to this in a year or more. Even more reason to use the often ignored "description" field!
    3.  Tagging allows you to create additional markers to a survey for future searches. These are a descriptor that provide another way to search for similar Surveys in both the Survey Catalog and when creating custom reports. **If I want to create a relationship between two or more surveys that I want to later browse for trends or correlations using a custom report I might tag them** (e.g. Comic-Con 2015 and Comic-Con 2016 might have a "comic-con" tag).
 
+<a id="participation_strategy"></a>
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Participant+Invitation.png "Participant Invitation")
 
-<a id="participation_strategy"></a>
 **Participant Invitation** - How do you want your survey to be distributed? (We're working on the "by owl" option a la Harry Potter)
 
    1. **"Is Trigger Based?"** or — "if this happens, then do that" — will allow you to send a survey automatically when a case is closed in Salesforce.  *(For instructions on how to build triggers, search for "triggers overview" in the help menu).*
    2.  The **"Audience"** dropdown will be where you select the pre-configured audience you want to reach. *(For instructions on how to build an audience, search for "audience overview" in the help menu).*. 
    3. **"Contact Registration"** gives you a URL to distribute however you'd like (e.g. QR code, Tweet, Facebook, Email, etc.). The URL directs the recipient to a page where they'll register (Name, Email, Company, Position) and then participate in the survey.  
 
+<a id="design_settings"></a>
  ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Design+Settings.png "Design Settings")
 
-<a id="design_settings"></a>
 **Design Settings** - We don't want to distract from the research, but here's your chance to make things a teensy bit flashy.
 
    1. If you're using Reaction, chances are you know someone who has created a logo, even if you haven't yourself. Show it off! *(For instructions on how to add a logo, search for "logo" in the help menu).*   
@@ -33,10 +33,15 @@
    3. "Include Verify Information Page?" adds a page to the survey that verifies demographic information of the participant. The best info is to go directly to the source. 
 
 <a id="supported_languages"></a>
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](ADD URL FOR NEW SCREENSHOT)
 
+1. **Default Language** is what the language the survey will default to if the language of the participant is unknown or not supported in this survey.
+2. **Supported Languages** are all the languages you'll translate your survey and emails into ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](ADD URL FOR SCREENSHOT OF THE MANAGE TRANSLATIONS) 
+
+<a id="completion_page_content"></a>
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Survey+custom+content+page.png)
 
-1.<a id="completion_page_content"></a> **Completion Page Custom Content** - So you have something you want to say to your participants? A "thank you" or a "now what?" fits perfectly here. (e.g. "Thank you for participating! As a 'thank you' we've shared your peers' responses to one of the questions here!" OR "If you have any additional questions please reach out to your account manager."
+1. **Completion Page Custom Content** - So you have something you want to say to your participants? A "thank you" or a "now what?" fits perfectly here. (e.g. "Thank you for participating! As a 'thank you' we've shared your peers' responses to one of the questions here!" OR "If you have any additional questions please reach out to your account manager."
 2. **NPS Options** - This will inject into your standard NPS question (e.g. "How likely are you to recommend {{subject_name}} to a friend or colleague?)
 
 
