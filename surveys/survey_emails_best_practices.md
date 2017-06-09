@@ -12,3 +12,7 @@
  7. Emails coming from individuals with VP or C-level titles receive higher response rates than those with Manager (and below titles). But if the email comes from someone with a sales title, the response rate will be low so avoid emails coming from anyone in a sales role.
 	 *  If possible, create a realistic looking email alias. If your real email is jane.smith@company.com consider coming up with something like janesmith@company.com. This helps you better manage auto-responses and direct replies.
  8. 3 to 4 days after each email send, please forward all auto-reply emails and unsubscribe emails to unsubscribe@reactiondata.com. Your next round of messages will not be sent until these emails are processed. The easiest option for forwarding these emails are to simply highlight all the emails and attach them to one email that you send over to us.
+
+<center>
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](http://www.librarycompany.org/BFWriter/images/large/ch9_intro.jpg)
+</center>
