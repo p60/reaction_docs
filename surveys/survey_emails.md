@@ -23,7 +23,7 @@ To create 1 of (up to) 3 email sends:
 
 3. Add your Email **Subject**.
 
-4. Add your Email **Body** while utilizing the **Insert Variable** tool ![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Insert+Variable.png "insert variable"). This allows you to add participant attributes (e.g. Dear "Participant First Name") and various ways to link the survey (e.g. Survey Link or Begin Survey Link Button).
+4. Add your Email **Body** while utilizing the **Insert Variable** tool <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Insert+Variable.png" alt="insert variable" style="width: 20%"/>. This allows you to add participant attributes (e.g. Dear "Participant First Name") and various ways to link the survey (e.g. Survey Link or Begin Survey Link Button).
 
 5. **Preview** your email by clicking the![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/preview+email.png "preview email") and sending it to whomever needs to sign off on it. This is exactly as it will appear to recipients and is meant for you to note any necessary changes needed before scheduling the official send. 
    
@@ -35,7 +35,5 @@ To create 1 of (up to) 3 email sends:
 	* **To Send Immediately** (you procrastinator, you), you will toggle the "Schedule Delivery Time" off, read the dialogue letting you know that this is the point of no return as we can't unsend emails, click the "Ready" box, and "Deliver Email Messages."
 	* **To Schedule For a Future Date**, toggle the "Schedule Delivery Time" on, select the date and time you'd like this email to be sent out, click the "I confirm that the delivery times listed above are correct" box, and "Schedule email messages for delivery." **(Scheduled email messages can be cancelled in the Deliveries tab)**
 
-
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/build+email.gif "This will be a gif of the above emailing process. WE WILL NEED A NEW GIF WITH TREVOR'S IMPROVEMENTS WHERE THINGS STAY PUT")
 
 *  NOTE: Should you decide that one of your email drafts doesn't need to be sent or if you just want to start from scratch you can **"Delete"** the email by clicking ![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/delete+email.png "delete email") on the bottom. (Note: once an email is scheduled you will not be able to delete it here. You will, however, be able to cancel any pending messages on the Deliveries page)
