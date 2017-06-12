@@ -33,10 +33,10 @@
    3. "Include Verify Information Page?" adds a page to the survey that verifies demographic information of the participant. The best info is to go directly to the source. 
 
 <a id="supported_languages"></a>
-![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](ADD URL FOR NEW SCREENSHOT)
+![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Supported+Languages.png) 
 
 1. **Default Language** is what the language the survey will default to if the language of the participant is unknown or not supported in this survey.
-2. **Supported Languages** are all the languages you'll translate your survey and emails into ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Supported+Languages.png) 
+2. **Supported Languages** are all the languages you'll translate your survey and emails into 
 
 <a id="completion_page_content"></a>
 ![This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_details/Survey+custom+content+page.png)
