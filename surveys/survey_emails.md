@@ -23,7 +23,7 @@ To create 1 of (up to) 3 email sends:
 
 3. Add your Email **Subject**.
 
-4. Add your Email **Body** while utilizing the **Insert Variable** tool. This allows you to add participant attributes (e.g. Dear "Participant First Name") and various ways to link the survey (e.g. Survey Link or Begin Survey Link Button).
+4. Add your Email **Body** while utilizing the **Insert Variable** tool ![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Insert+Variable.png "insert variable"). This allows you to add participant attributes (e.g. Dear "Participant First Name") and various ways to link the survey (e.g. Survey Link or Begin Survey Link Button).
 
 5. **Preview** your email by clicking the![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/preview+email.png "preview email") and sending it to whomever needs to sign off on it. This is exactly as it will appear to recipients and is meant for you to note any necessary changes needed before scheduling the official send. 
    
