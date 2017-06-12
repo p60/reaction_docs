@@ -14,7 +14,7 @@ If you're a first timer in Reaction, or you want just want to get down to busine
 If you have existing surveys, they'll be represented by colorful tiles like the one you see here: 
 
 <center>
-<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_overview/survey+title.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="30%" height="30%">
+<img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/survey_overview/survey+title.png" alt="This was supposed to be a screenshot. If you're seeing this it means the world is ending and you should probably panic!" width="100%" height="100%">
 </center>
 
 1. **Survey Status:**
