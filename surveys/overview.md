@@ -24,8 +24,9 @@ If you have existing surveys, they'll be represented by colorful tiles like the 
 2. **Title of Survey (not visible to participants)**
 3. **Survey Type**
 4. **Survey Creation Date**
-5. **Link to Surey Results**
-6. **Survey Info**
+5. **Survey Info**
+6. **Link to Survey Results**
+7. **Copy Survey**
 
 
 
