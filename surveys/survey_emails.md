@@ -26,8 +26,9 @@
 This allows you to add participant attributes (e.g. Dear "Participant First Name") and various ways to link the survey (e.g. Survey Link or Begin Survey Link Button).
    
  >**Preview** your email by clicking the![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/preview+email.png "preview email") and sending it to whomever needs to sign off on it. This is exactly as it will appear to recipients and is meant for you to note any necessary changes needed before scheduling the official send. 
- >
- >POINT OF NO RETURN. When you're survey and email is ready to be delivered, if you haven't done so already, **go back to the Survey Details tab** and click "Open Survey." (Your survey needs to be Open for emails to be scheduled). Keep in mind, <span style="color:red">once your Survey is Open, you can no longer add or reorder questions or conditions.</span>.    
+ 
+
+POINT OF NO RETURN. When you're survey and email is ready to be delivered, if you haven't done so already, **go back to the Survey Details tab** and click "Open Survey." (Your survey needs to be Open for emails to be scheduled). Keep in mind, <span style="color:red">once your Survey is Open, you can no longer add or reorder questions or conditions.</span>.    
    
 4. **Survey URL Link** allows you to write in your own text (the blue font can be replaced with whatever you'd like) and will be clickable text that links the participant to the survey. 
 
