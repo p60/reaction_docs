@@ -22,7 +22,7 @@
 1. **"Email Configuration"** - These are created in **Settings** and are a pre-configured combination of the email address we want to send from, email address (if different) you'd like replies sent to, and an email signature (HTML supported).
 2. Add your Email **Subject**.
 
-3. Add your Email **Body** while utilizing the **Insert Variable** tool <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Insert+Variable.png" alt="Insert Variable Button" width="3%" height="3%">
+3. Add your Email **Body** while utilizing the **Insert Variable** tool <img src="https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/Insert+Variable.png" alt="Insert Variable Button" width="4%" height="4%">
 This allows you to add participant attributes (e.g. Dear "Participant First Name") and various ways to link the survey (e.g. Survey Link or Begin Survey Link Button).
    
  >**Preview** your email by clicking the![](https://s3.amazonaws.com/peer60_organizations/documentation+tbd/Icons/preview+email.png "preview email") and sending it to whomever needs to sign off on it. This is exactly as it will appear to recipients and is meant for you to note any necessary changes needed before scheduling the official send. 
